@@ -1,0 +1,466 @@
+[
+  {
+    "id": "apple-watch-series9",
+    "name": "Apple Watch Series 9",
+    "price": 3799,
+    "installments": "ou em até 10x de R$ 379,90 sem juros",
+    "storage": ["32GB"],
+    "colors": [
+      {
+        "name": "Meia-noite",
+        "bg": "#111",
+        "color": "#fff"
+      },
+      {
+        "name": "Prata",
+        "bg": "#ddd",
+        "color": "#000"
+      },
+      {
+        "name": "Vermelho",
+        "bg": "#c00",
+        "color": "#fff"
+      }
+    ],
+    "images": [
+      "/assets/image/smartwatch/apple-watch-series-9-1.jpg",
+      "/assets/image/smartwatch/apple-watch-series-9-2.jpg",
+      "/assets/image/smartwatch/apple-watch-series-9.jpg"
+    ],
+    "description": "O Apple Watch Series 9 é o smartwatch mais avançado da Apple, com tela brilhante e recursos de saúde de última geração.",
+    "specs": "Tela Retina Sempre Ativa | Processador S9 | Oxigênio no sangue | ECG | watchOS",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "apple-watch-ultra2",
+    "name": "Apple Watch Ultra 2",
+    "price": 6999,
+    "installments": "ou em até 10x de R$ 699,90 sem juros",
+    "storage": ["64GB"],
+    "colors": [
+      {
+        "name": "Titânio",
+        "bg": "#bbb",
+        "color": "#000"
+      },
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "images": [
+      "/assets/image/smartwatch/apple-watch-ultra-2-1.jpg",
+      "/assets/image/smartwatch/apple-watch-ultra-2-2.jpg",
+      "/assets/image/smartwatch/apple-watch-ultra-2.jpg"
+    ],
+    "description": "Apple Watch Ultra 2 projetado para esportes radicais, com resistência e bateria estendida.",
+    "specs": "Caixa 49mm Titânio | GPS Dual-Frequency | 100m resistência | Bateria até 72h",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "samsung-galaxy-watch6",
+    "name": "Samsung Galaxy Watch 6",
+    "price": 2199,
+    "installments": "ou em até 10x de R$ 219,90 sem juros",
+    "storage": ["16GB"],
+    "colors": [
+      {
+        "name": "Grafite",
+        "bg": "#333",
+        "color": "#fff"
+      },
+      {
+        "name": "Prata",
+        "bg": "#ddd",
+        "color": "#000"
+      }
+    ],
+    "images": [
+      "/assets/image/smartwatch/samsung-galaxy-watch-6-1.jpg",
+      "/assets/image/smartwatch/samsung-galaxy-watch-6-2.jpg",
+      "/assets/image/smartwatch/samsung-galaxy-watch-6.jpg"
+    ],
+    "description": "Galaxy Watch 6 com design elegante e recursos avançados de saúde.",
+    "specs": "Tela Super AMOLED | Wear OS | Monitoramento do sono | ECG",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "samsung-galaxy-watch6-classic",
+    "name": "Samsung Galaxy Watch 6 Classic",
+    "price": 2699,
+    "installments": "ou em até 10x de R$ 269,90 sem juros",
+    "storage": ["16GB"],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      },
+      {
+        "name": "Prata",
+        "bg": "#ddd",
+        "color": "#000"
+      }
+    ],
+    "images": [
+      "/assets/image/smartwatch/samsung-galaxy-watch-6-classic-1.jpg",
+      "/assets/image/smartwatch/samsung-galaxy-watch-6-classic-2.jpg",
+      "/assets/image/smartwatch/samsung-galaxy-watch-6-classic.jpg"
+    ],
+    "description": "Versão Classic com aro giratório e design sofisticado.",
+    "specs": "Caixa 47mm | Wear OS | Super AMOLED | ECG | GPS",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "xiaomi-watch-s1",
+    "name": "Xiaomi Watch S1",
+    "price": 1499,
+    "installments": "ou em até 10x de R$ 149,90 sem juros",
+    "storage": ["8GB"],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#111",
+        "color": "#fff"
+      },
+      {
+        "name": "Prata",
+        "bg": "#ccc",
+        "color": "#000"
+      }
+    ],
+    "images": [
+      "/assets/image/smartwatch/xiaomi-watch-s1-1.jpg",
+      "/assets/image/smartwatch/xiaomi-watch-s1.jpg"
+    ],
+    "description": "Relógio inteligente da Xiaomi com design elegante e bateria de longa duração.",
+    "specs": "Tela AMOLED 1.43” | GPS | NFC | Bateria até 12 dias",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "amazfit-gtr4",
+    "name": "Amazfit GTR 4",
+    "price": 1199,
+    "installments": "ou em até 10x de R$ 119,90 sem juros",
+    "storage": ["8GB"],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      },
+      {
+        "name": "Prata",
+        "bg": "#ccc",
+        "color": "#000"
+      }
+    ],
+    "images": [
+      "/assets/image/smartwatch/amazfit-gtr-4-1.jpg",
+      "/assets/image/smartwatch/amazfit-gtr-4-2.jpg",
+      "/assets/image/smartwatch/amazfit-gtr-4.jpg"
+    ],
+    "description": "Smartwatch premium da Amazfit com GPS de precisão.",
+    "specs": "Tela AMOLED 1.43” | 150 modos esportivos | Bateria até 14 dias",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "huawei-watch-gt4",
+    "name": "Huawei Watch GT 4",
+    "price": 1699,
+    "installments": "ou em até 10x de R$ 169,90 sem juros",
+    "storage": ["16GB"],
+    "colors": [
+      {
+        "name": "Prata",
+        "bg": "#ccc",
+        "color": "#000"
+      },
+      {
+        "name": "Verde",
+        "bg": "#2ecc71",
+        "color": "#fff"
+      }
+    ],
+    "images": [
+      "/assets/image/smartwatch/huawei-watch-gt-4-1.jpg",
+      "/assets/image/smartwatch/huawei-watch-gt-4-2.jpg",
+      "/assets/image/smartwatch/huawei-watch-gt-4.jpg"
+    ],
+    "description": "Smartwatch da Huawei com foco em saúde e fitness.",
+    "specs": "Tela AMOLED 1.43” | GPS | Monitor de batimentos | HarmonyOS",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "garmin-venu-3",
+    "name": "Garmin Venu 3",
+    "price": 3299,
+    "installments": "ou em até 10x de R$ 329,90 sem juros",
+    "storage": ["8GB"],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      },
+      {
+        "name": "Branco",
+        "bg": "#fff",
+        "color": "#000"
+      }
+    ],
+    "images": [
+      "/assets/image/smartwatch/garmin-venu-3-1.jpg",
+      "/assets/image/smartwatch/garmin-venu-3-2.jpg",
+      "/assets/image/smartwatch/garmin-venu-3.jpg"
+    ],
+    "description": "Relógio Garmin com GPS avançado e recursos fitness.",
+    "specs": "Tela AMOLED | GPS multibanda | Bateria até 14 dias | Pulse Oximeter",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "fitbit-versa4",
+    "name": "Fitbit Versa 4",
+    "price": 1099,
+    "installments": "ou em até 10x de R$ 109,90 sem juros",
+    "storage": ["4GB"],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      },
+      {
+        "name": "Rosa",
+        "bg": "#f8a5c2",
+        "color": "#000"
+      }
+    ],
+    "images": [
+      "/assets/image/smartwatch/fitbit-versa-4-1.jpg",
+      "/assets/image/smartwatch/fitbit-versa-4-2.jpg",
+      "/assets/image/smartwatch/fitbit-versa-4.jpg"
+    ],
+    "description": "Smartwatch da Fitbit com foco em saúde e esportes.",
+    "specs": "Tela AMOLED | 40 modos de exercício | Monitor de sono | Google Fit",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "motorola-moto-watch100",
+    "name": "Motorola Moto Watch 100",
+    "price": 899,
+    "installments": "ou em até 10x de R$ 89,90 sem juros",
+    "storage": ["4GB"],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      },
+      {
+        "name": "Prata",
+        "bg": "#ccc",
+        "color": "#000"
+      }
+    ],
+    "images": [
+      "/assets/image/smartwatch/motorola-moto-watch-100-1.jpg",
+      "/assets/image/smartwatch/motorola-moto-watch-100.png",
+      "/assets/image/smartwatch/motorola-moto-watch-100.jpg"
+    ],
+    "description": "Smartwatch acessível da Motorola com foco em simplicidade.",
+    "specs": "Tela LCD 1.3” | GPS | Bateria até 14 dias | Moto Watch OS",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  }
+]

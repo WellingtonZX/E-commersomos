@@ -1,0 +1,333 @@
+body, h1, h2, h3, p, ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+main {
+  max-width: 75rem;
+  margin: 2.5rem auto;
+  padding: 0 1.25rem;
+}
+
+.product-info {
+  flex: 1 1 40%;
+  position: relative;
+}
+
+.zoom-flyout {
+  width: 28rem;
+  height: 28.75rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: 0.0625rem solid #ddd;
+  box-shadow: 0 0.25rem 0.625rem rgba(0, 0, 0, 0.2);
+  display: none;
+  background-repeat: no-repeat;
+  background-size: 300%;
+  z-index: 10;
+  background-color: #ffffff;
+}
+
+.zoom-box {
+  width: 9.375rem;
+  height: 9.375rem;
+  border: 0.0625rem solid #ddd;
+  box-shadow: 0 0.25rem 0.625rem rgba(0, 0, 0, 0.2);
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: none;
+  background-repeat: no-repeat;
+  background-size: 200%;
+  border-radius: 0.5rem;
+  transition: transform 0.1s ease-out;
+}
+
+.product-detail {
+  display: flex;
+  gap: 2.5rem;
+  position: relative;
+  margin: 20px;
+}
+
+.product-images {
+  display: flex;
+  gap: 0.9375rem;
+  
+}
+
+.related-products .card {
+ flex: 1 1 calc(50% - 0.625rem); 
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.product-images .main-img {
+  max-width: 100%;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.thumbs-vertical {
+  display: flex;
+  flex-direction: column;
+  gap: 0.625rem;
+}
+
+.thumbs-vertical img {
+  width: 3.125rem;
+  height: 3.125rem;
+  object-fit: cover;
+  cursor: pointer;
+  border: 0.0625rem solid #ccc;
+  border-radius: 0.25rem;
+  transition: 0.3s;
+}
+
+.thumbs-vertical img:hover {
+  border-color: #007bff;
+}
+
+.product-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.product-info h1 {
+  font-size: 2rem;
+  margin-bottom: 0.625rem;
+}
+
+.btn-wrapper {
+   display: flex;
+  gap: 0.625rem;
+  flex-direction: column; 
+  width: 100%;
+  max-width: 20rem; 
+  margin-top: 0.9375rem;
+}
+
+.btn-wrapper .btn {
+  flex: 1;             
+  padding: 0.75rem 1.25rem;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 0.3125rem;
+  cursor: pointer;
+  text-align: center;
+}
+
+.quantity {
+  display: flex;
+  align-items: center;
+  gap: 0.625rem;
+  padding: 0.625rem 0;
+}
+
+.review-item {
+  border-bottom: 0.0625rem solid #eee;
+  padding-bottom: 0.9375rem;
+  margin-bottom: 0.9375rem;
+}
+
+.review-text {
+  font-style: italic;
+  font-size: 1.1rem;
+  color: #555;
+  margin-bottom: 0.3125rem;
+}
+
+.review-meta {
+  font-size: 0.9rem;
+  color: #888;
+  text-align: right;
+}
+
+#quantity-input {
+  width: 3.75rem;
+  height: 2.1875rem;
+  padding: 0.3125rem;
+  border: 0.0625rem solid #ccc;
+  border-radius: 0.5rem;
+  font-family: inherit;
+  font-size: 1rem;
+  text-align: center;
+  background-color: #f9f9f9;
+  color: #333;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: textfield;
+}
+
+.tab-content {
+  margin-bottom: 1.25rem;
+  padding: 2.5rem 0;
+}
+
+#quantity-input:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 0.3125rem rgba(0, 123, 255, 0.5);
+}
+
+.storage span {
+  padding: 0.3125rem 0.625rem;
+  border: 0.0625rem solid #ccc;
+  cursor: pointer;
+  border-radius: 0.25rem;
+  transition: all 0.2s ease-in-out;
+}
+
+.storage span:hover {
+  border-color: #007bff;
+  background-color: #eaf5ff;
+}
+
+.storage span.selected {
+  border-color: #007bff;
+  background-color: #007bff;
+  color: #fff;
+  font-weight: bold;
+}
+
+.colors .color-swatch {
+  display: inline-block;
+  width: 1.875rem;
+  height: 1.875rem;
+  border-radius: 50%;
+  border: 0.0625rem solid #ccc;
+  cursor: pointer;
+  margin-right: 0.3125rem;
+  transition: all 0.2s ease-in-out;
+}
+
+.colors .color-swatch:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 0.3125rem rgba(0, 0, 0, 0.2);
+}
+
+.colors .color-swatch.selected {
+  border: 0.1875rem solid #007bff;
+  transform: scale(1.1);
+}
+
+.price {
+  font-size: 1.5rem;
+  color: #0033C6;
+  margin-bottom: 0.3125rem;
+  font-family: 'Nunito', sans-serif;
+        font-size: 32px;
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        font-weight: 700;
+}
+
+.installments {
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 0.9375rem;
+}
+
+.colors, .storage, .quantity {
+  margin-top: 10px;
+}
+
+.btn {
+  width: 100%;
+  padding: 0.75rem 1.25rem;
+  font-size: 1rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 0.3125rem;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.btn-cart {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.btn-cart:hover {
+  background-color: #0056b3;
+}
+
+.btn-buy {
+  background-color: #28a745;
+  color: #fff;
+}
+
+.btn-buy:hover {
+  background-color: #1e7e34;
+}
+
+.tabs {
+  display: flex;
+  gap: 2.5rem;
+  margin-top: 1.875rem;
+  border-bottom: 0.0625rem solid #ccc;
+}
+
+.tabs div {
+  padding-bottom: 0.3125rem;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.tabs .active {
+  border-bottom: 0.125rem solid #007bff;
+}
+
+.related-products {
+   display: flex;
+  flex-wrap: wrap;
+  gap: 0.625rem; 
+  margin-top: 2.5rem;
+}
+
+.related-products .card {
+  flex: 1 1 calc(25% - 1.25rem);
+  text-align: center;
+  border: 0.0625rem solid #ddd;
+  border-radius: 0.5rem;
+  padding: 0.625rem;
+}
+
+.related-products a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.related-products .card:hover {
+  box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.1);
+  transform: translateY(-0.125rem);
+  transition: all 0.3s ease;
+}
+
+.card a:hover {
+  box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.1);
+  transform: translateY(-0.3125rem);
+}
+
+.related-products .card img {
+  width: 100%;
+  height: 9.375rem;
+  object-fit: contain;
+  margin-bottom: 0.625rem;
+}
+
+.card p{
+    color: #0033C6;
+    margin-bottom: 0.3125rem;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    font-weight: 700;
+}
+

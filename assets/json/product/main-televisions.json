@@ -1,0 +1,417 @@
+[
+  {
+    "id": "samsung-qn90c",
+    "name": "Samsung Neo QLED QN90C 65",
+    "price": 7999.0,
+    "installments": "ou em até 12x de R$ 666,58 sem juros",
+    "images": [
+      "/assets/image/televisions/Samsung-Neo-QLED-QN90C-65.jpg",
+      "/assets/image/televisions/Samsung-Neo-QLED-QN90C-65-1.jpg",
+      "/assets/image/televisions/Samsung-Neo-QLED-QN90C-65-2.jpg"
+    ],
+    "colors": [{ "name": "Preto", "bg": "#000", "color": "#fff" }],
+    "storage": [],
+    "description": "Samsung Neo QLED QN90C 65 com qualidade de imagem incrível e tecnologia Neo QLED.",
+    "specs": "Tela 65, Neo QLED, 4K, HDR10+, Smart TV, 120Hz, compatível com Alexa.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "lg-oled-c3",
+    "name": "LG OLED C3 55",
+    "price": 6499.0,
+    "installments": "ou em até 12x de R$ 541,58 sem juros",
+    "images": [
+      "/assets/image/televisions/LG-OLED-C3-55.jpg",
+      "/assets/image/televisions/LG-OLED-C3-55-1.jpg",
+      "/assets/image/televisions/LG-OLED-C3-55-2.jpg"
+    ],
+    "colors": [{ "name": "Preto", "bg": "#000", "color": "#fff" }],
+    "storage": [],
+    "description": "LG OLED C3 55 com tecnologia OLED, cores vivas e pretos profundos.",
+    "specs": "Tela 55, OLED, 4K, HDR, Smart TV, 120Hz, webOS.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "sony-x90k",
+    "name": "Sony Bravia X90K 65",
+    "price": 8199.0,
+    "installments": "ou em até 12x de R$ 683,25 sem juros",
+    "images": [
+      "/assets/image/televisions/Sony-Bravia-X90K-65.jpg",
+      "/assets/image/televisions/Sony-Bravia-X90K-65-1.jpg",
+      "/assets/image/televisions/Sony-Bravia-X90K-65-2.jpg"
+    ],
+    "colors": [{ "name": "Preto", "bg": "#000", "color": "#fff" }],
+    "storage": [],
+    "description": "Sony Bravia X90K 65 com qualidade de imagem superior e tecnologia Triluminos.",
+    "specs": "Tela 65, LED, 4K, HDR, Smart TV, 120Hz, Android TV.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "tcl-c835",
+    "name": "TCL C835 Mini LED 55",
+    "price": 4299.0,
+    "installments": "ou em até 12x de R$ 358,25 sem juros",
+    "images": [
+      "/assets/image/televisions/TCL-C835-Mini-LED-55.jpg",
+      "/assets/image/televisions/TCL-C835-Mini-LED-55-1.jpg",
+      "/assets/image/televisions/TCL-C835-Mini-LED-55-2.jpg"
+    ],
+    "colors": [{ "name": "Preto", "bg": "#000", "color": "#fff" }],
+    "storage": [],
+    "description": "TCL C835 Mini LED 55 com contraste aprimorado e painel Mini LED.",
+    "specs": "Tela 55, Mini LED, 4K, HDR, Smart TV, 120Hz, Roku TV.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "philips-ambilight",
+    "name": "Philips Ambilight 70",
+    "price": 5899.0,
+    "installments": "ou em até 12x de R$ 491,58 sem juros",
+    "images": [
+      "/assets/image/televisions/Philips-Ambilight-70.jpg",
+      "/assets/image/televisions/Philips-Ambilight-70-1.jpg",
+      "/assets/image/televisions/Philips-Ambilight-70-2.jpg"
+    ],
+    "colors": [{ "name": "Preto", "bg": "#000", "color": "#fff" }],
+    "storage": [],
+    "description": "Philips Ambilight 70 com iluminação ambiente Ambilight exclusiva e cores vivas.",
+    "specs": "Tela 70, LED, 4K, HDR, Smart TV, Ambilight, 120Hz.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "samsung-frame",
+    "name": "Samsung The Frame 55",
+    "price": 6299.0,
+    "installments": "ou em até 12x de R$ 524,92 sem juros",
+    "images": [
+      "/assets/image/televisions/Samsung-The-Frame-55.jpg",
+      "/assets/image/televisions/Samsung-The-Frame-55-1.jpg",
+      "/assets/image/televisions/Samsung-The-Frame-55-2.jpg"
+    ],
+    "colors": [{ "name": "Preto", "bg": "#000", "color": "#fff" }],
+    "storage": [],
+    "description": "Samsung The Frame 55 que se transforma em quadro quando desligada.",
+    "specs": "Tela 55, QLED, 4K, HDR, Smart TV, Art Mode, 120Hz.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "lg-qned80",
+    "name": "LG QNED80 65",
+    "price": 5499.0,
+    "installments": "ou em até 12x de R$ 458,25 sem juros",
+    "images": [
+      "/assets/image/televisions/LG-QNED80-65.jpg",
+      "/assets/image/televisions/LG-QNED80-65-1.jpg",
+      "/assets/image/televisions/LG-QNED80-65-2.jpg"
+    ],
+    "colors": [{ "name": "Preto", "bg": "#000", "color": "#fff" }],
+    "storage": [],
+    "description": "LG QNED80 65 com painel QNED e excelente qualidade de cores.",
+    "specs": "Tela 65, QNED, 4K, HDR, Smart TV, 120Hz.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "tcl-p635",
+    "name": "TCL P635 50",
+    "price": 2299.0,
+    "installments": "ou em até 12x de R$ 191,58 sem juros",
+    "images": [
+      "/assets/image/televisions/TCL-P635-50.jpg",
+      "/assets/image/televisions/TCL-P635-50-1.jpg"
+    ],
+    "colors": [{ "name": "Preto", "bg": "#000", "color": "#fff" }],
+    "storage": [],
+    "description": "TCL P635 50 com bom desempenho e preço acessível.",
+    "specs": "Tela 50, LED, 4K, HDR, Smart TV, 60Hz.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "sony-a80k",
+    "name": "Sony OLED A80K 55",
+    "price": 9499.0,
+    "installments": "ou em até 12x de R$ 791,58 sem juros",
+    "images": [
+      "/assets/image/televisions/Sony-OLED-A80K-55.jpg",
+      "/assets/image/televisions/Sony-OLED-A80K-55-1.jpg",
+      "/assets/image/televisions/Sony-OLED-A80K-55-2.jpg"
+    ],
+    "colors": [{ "name": "Preto", "bg": "#000", "color": "#fff" }],
+    "storage": [],
+    "description": "Sony OLED A80K 55 com cores perfeitas e pretos profundos graças ao OLED.",
+    "specs": "Tela 55, OLED, 4K, HDR, Smart TV, 120Hz, Android TV.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "samsung-crystal-uhd",
+    "name": "Samsung Crystal UHD 50",
+    "price": 2499.0,
+    "installments": "ou em até 12x de R$ 208,25 sem juros",
+    "images": [
+      "/assets/image/televisions/Samsung-Crystal-UHD-50.jpg",
+      "/assets/image/televisions/Samsung-Crystal-UHD-50-1.jpg",
+      "/assets/image/televisions/Samsung-Crystal-UHD-50-2.jpg"
+    ],
+    "colors": [{ "name": "Preto", "bg": "#000", "color": "#fff" }],
+    "storage": [],
+    "description": "Samsung Crystal UHD 50 com painel Crystal e boa definição de cores.",
+    "specs": "Tela 50, LED, 4K, HDR, Smart TV, 60Hz.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "lg-nanocell-80",
+    "name": "LG NanoCell 80 55",
+    "price": 3599.0,
+    "installments": "ou em até 12x de R$ 299,92 sem juros",
+    "images": [
+      "/assets/image/televisions/LG-NanoCell-80-55.jpg",
+      "/assets/image/televisions/LG-NanoCell-80-55-1.jpg",
+      "/assets/image/televisions/LG-NanoCell-80-55-2.jpg"
+    ],
+    "colors": [{ "name": "Preto", "bg": "#000", "color": "#fff" }],
+    "storage": [],
+    "description": "LG NanoCell 80 55 com tecnologia NanoCell e cores mais precisas.",
+    "specs": "Tela 55, NanoCell, 4K, HDR, Smart TV, 60Hz.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "philco-4k",
+    "name": "Philco 4K Smart TV 58",
+    "price": 2899.0,
+    "installments": "ou em até 12x de R$ 241,58 sem juros",
+    "images": ["/assets/image/televisions/Philco-4K-Smart-TV-58.jpg"],
+    "colors": [{ "name": "Preto", "bg": "#000", "color": "#fff" }],
+    "storage": [],
+    "description": "Philco 4K Smart TV 58 com bom desempenho e imagem nítida.",
+    "specs": "Tela 58, LED, 4K, HDR, Smart TV, 60Hz.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  }
+]

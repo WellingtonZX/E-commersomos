@@ -1,0 +1,430 @@
+[
+  {
+    "id": "jbl-c100si",
+    "name": "JBL C100SI",
+    "price": 79.0,
+    "installments": "ou em até 3x de R$ 26,33 sem juros",
+    "images": [
+      "/assets/image/headphones/jbl-c100si-1.jpg",
+      "/assets/image/headphones/jbl-c100si.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "wireless": false,
+    "storage": [],
+    "description": "Fone JBL C100SI com fio, leve e confortável, ideal para ouvir música no dia a dia.",
+    "specs": "Driver 9mm, microfone embutido, cabo de 1,2m, compatível com smartphones.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "sony-mdr-ex15",
+    "name": "Sony MDR-EX15",
+    "price": 69.0,
+    "installments": "ou em até 3x de R$ 23,00 sem juros",
+    "images": [
+      "/assets/image/headphones/sony-mdr-ex15-1.jpg",
+      "/assets/image/headphones/sony-mdr-ex15-2.jpg",
+      "/assets/image/headphones/sony-mdr-ex15.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "wireless": false,
+    "storage": [],
+    "description": "Fone Sony MDR-EX15 com fio, compacto e confortável para uso diário.",
+    "specs": "Driver 9mm, cabo de 1,2m, compatível com dispositivos Android e iOS.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "pioneer-se-cl5",
+    "name": "Pioneer SE-CL5",
+    "price": 89.0,
+    "installments": "ou em até 3x de R$ 29,67 sem juros",
+    "images": [
+      "/assets/image/headphones/pioneer-se-cl5-1.jpg",
+      "/assets/image/headphones/pioneer-se-cl5-2.jpg",
+      "/assets/image/headphones/pioneer-se-cl5.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "wireless": false,
+    "storage": [],
+    "description": "Fone Pioneer SE-CL5 com fio, som equilibrado e design confortável.",
+    "specs": "Driver 10mm, cabo de 1,2m, microfone embutido, controle remoto.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "hyperx-cloud-stinger",
+    "name": "HyperX Cloud Stinger",
+    "price": 279.0,
+    "installments": "ou em até 12x de R$ 23,25 sem juros",
+    "images": [
+      "/assets/image/headphones/hyperx-cloud-stinger-1.jpg",
+      "/assets/image/headphones/hyperx-cloud-stinger-2.jpg",
+      "/assets/image/headphones/hyperx-cloud-stinger.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "wireless": false,
+    "storage": [],
+    "description": "Headset gamer HyperX Cloud Stinger com fio, leve e com som de alta qualidade.",
+    "specs": "Drivers 50mm, microfone giratório com cancelamento de ruído, conforto prolongado.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "razer-kraken",
+    "name": "Razer Kraken",
+    "price": 399.0,
+    "installments": "ou em até 12x de R$ 33,25 sem juros",
+    "images": [
+      "/assets/image/headphones/razer-kraken-1.jpg",
+      "/assets/image/headphones/razer-kraken.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "wireless": false,
+    "storage": [],
+    "description": "Headset gamer Razer Kraken com fio, som surround e design confortável para longas sessões.",
+    "specs": "Drivers 40mm, microfone retrátil, som estéreo, compatível com PC e consoles.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "jbl-tune-510bt",
+    "name": "JBL Tune 510BT",
+    "price": 229.0,
+    "installments": "ou em até 12x de R$ 19,08 sem juros",
+    "images": [
+      "/assets/image/headphones/jbl-tune-510bt-1.jpg",
+      "/assets/image/headphones/jbl-tune-510bt-2.jpg",
+      "/assets/image/headphones/jbl-tune-510bt.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "wireless": true,
+    "storage": [],
+    "description": "Fone JBL Tune 510BT sem fio com Bluetooth, leve e confortável para uso diário.",
+    "specs": "Drivers 32mm, bateria até 40h, carregamento rápido, microfone embutido.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "sony-wh-ch510",
+    "name": "Sony WH-CH510",
+    "price": 249.0,
+    "installments": "ou em até 12x de R$ 20,75 sem juros",
+    "images": [
+      "/assets/image/headphones/sony-wh-ch510-1.jpg",
+      "/assets/image/headphones/sony-wh-ch510-2.jpg",
+      "/assets/image/headphones/sony-wh-ch510.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "wireless": true,
+    "storage": [],
+    "description": "Fone Sony WH-CH510 sem fio, leve e com som nítido para música e chamadas.",
+    "specs": "Drivers 30mm, bateria até 35h, microfone embutido, Bluetooth 5.0.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "apple-airpods",
+    "name": "Apple AirPods (2ª geração)",
+    "price": 1299.0,
+    "installments": "ou em até 12x de R$ 108,25 sem juros",
+    "images": [
+      "/assets/image/headphones/apple-airpods-2-geracao-1.jpg",
+      "/assets/image/headphones/apple-airpods-2-geracao-2.jpg",
+      "/assets/image/headphones/apple-airpods-2-geracao.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Branco",
+        "bg": "#fff",
+        "color": "#000"
+      }
+    ],
+    "wireless": true,
+    "storage": [],
+    "description": "AirPods Apple sem fio com excelente integração com dispositivos iOS e áudio de qualidade.",
+    "specs": "Conectividade Bluetooth, sensor de proximidade, chip H1, microfone embutido.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "samsung-galaxy-buds2",
+    "name": "Samsung Galaxy Buds2",
+    "price": 699.0,
+    "installments": "ou em até 12x de R$ 58,25 sem juros",
+    "images": [
+      "/assets/image/headphones/samsung-galaxy-buds2-1.jpg",
+      "/assets/image/headphones/samsung-galaxy-buds2.png",
+      "/assets/image/headphones/samsung-galaxy-buds2.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      },
+      {
+        "name": "Branco",
+        "bg": "#fff",
+        "color": "#000"
+      }
+    ],
+    "wireless": true,
+    "storage": [],
+    "description": "Galaxy Buds2 sem fio da Samsung com cancelamento de ruído ativo e som equilibrado.",
+    "specs": "Bluetooth 5.2, ANC, microfone duplo, bateria até 20h com estojo.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "beats-solo3",
+    "name": "Beats Solo3 Wireless",
+    "price": 1199.0,
+    "installments": "ou em até 12x de R$ 99,92 sem juros",
+    "images": [
+      "/assets/image/headphones/beats-solo3-wireless-1.jpg",
+      "/assets/image/headphones/beats-solo3-wireless-2.jpg",
+      "/assets/image/headphones/beats-solo3-wireless.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      },
+      {
+        "name": "Dourado",
+        "bg": "#FFD700",
+        "color": "#000"
+      }
+    ],
+    "wireless": true,
+    "storage": [],
+    "description": "Beats Solo3 sem fio com som potente e bateria de longa duração.",
+    "specs": "Conectividade Bluetooth, bateria até 40h, carregamento rápido, microfone integrado.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  }
+]

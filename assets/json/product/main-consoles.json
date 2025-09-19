@@ -1,0 +1,262 @@
+[
+  {
+    "id": "ps5",
+    "name": "Sony PlayStation 5",
+    "price": 4499.0,
+    "installments": "ou em até 12x de R$ 374,92 sem juros",
+    "images": [
+      "/assets/image/consoles/sony-playstation-5-1.jpg",
+      "/assets/image/consoles/sony-playstation-5-2.jpg",
+      "/assets/image/consoles/sony-playstation-5.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Branco",
+        "bg": "#fff",
+        "color": "#000"
+      }
+    ],
+    "storage": [],
+    "description": "Console Sony PlayStation 5 com desempenho de próxima geração, SSD ultra-rápido e compatibilidade com jogos exclusivos.",
+    "specs": "CPU AMD Zen 2, GPU AMD RDNA 2, 16GB RAM, SSD 825GB, Ray Tracing, 4K Gaming.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "xbox-series-x",
+    "name": "Microsoft Xbox Series X",
+    "price": 4299.0,
+    "installments": "ou em até 12x de R$ 358,25 sem juros",
+    "images": [
+      "/assets/image/consoles/microsoft-xbox-series-x-1.jpg",
+      "/assets/image/consoles/microsoft-xbox-series-x-2.jpg",
+      "/assets/image/consoles/microsoft-xbox-series-x.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "storage": [],
+    "description": "Console Xbox Series X da Microsoft com alto desempenho, retrocompatibilidade e gráficos 4K a 120FPS.",
+    "specs": "CPU AMD Zen 2, GPU AMD RDNA 2, 16GB RAM, SSD 1TB, Ray Tracing, 4K Gaming.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "xbox-series-s",
+    "name": "Microsoft Xbox Series S",
+    "price": 2299.0,
+    "installments": "ou em até 12x de R$ 191,58 sem juros",
+    "images": [
+      "/assets/image/consoles/microsoft-xbox-series-s-1.jpg",
+      "/assets/image/consoles/microsoft-xbox-series-s-2.jpg",
+      "/assets/image/consoles/microsoft-xbox-series-s.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Branco",
+        "bg": "#fff",
+        "color": "#000"
+      }
+    ],
+    "storage": [],
+    "description": "Console Xbox Series S compacto, acessível, com alta performance e jogos em 1440p com upscaling para 4K.",
+    "specs": "CPU AMD Zen 2, GPU AMD RDNA 2, 10GB RAM, SSD 512GB, 1440p Gaming.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "nintendo-switch-oled",
+    "name": "Nintendo Switch OLED",
+    "price": 2999.0,
+    "installments": "ou em até 12x de R$ 249,92 sem juros",
+    "images": [
+      "/assets/image/consoles/nintendo-switch-oled-1.jpg",
+      "/assets/image/consoles/nintendo-switch-oled.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Branco",
+        "bg": "#fff",
+        "color": "#000"
+      },
+      {
+        "name": "Neon Azul/Vermelho",
+        "bg": "#00f",
+        "color": "#f00"
+      }
+    ],
+    "storage": [],
+    "description": "Nintendo Switch OLED com tela de 7 polegadas, áudio aprimorado e dock para TV.",
+    "specs": "Tela OLED 7\", 64GB armazenamento, Joy-Con destacáveis, Portátil e Dock para TV.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "nintendo-switch-lite",
+    "name": "Nintendo Switch Lite",
+    "price": 1799.0,
+    "installments": "ou em até 12x de R$ 149,92 sem juros",
+    "images": [
+      "/assets/image/consoles/nintendo-switch-lite-1.jpg",
+      "/assets/image/consoles/nintendo-switch-lite.png",
+      "/assets/image/consoles/nintendo-switch-lite.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Turquesa",
+        "bg": "#40E0D0",
+        "color": "#000"
+      },
+      {
+        "name": "Amarelo",
+        "bg": "#FFFF00",
+        "color": "#000"
+      },
+      {
+        "name": "Cinza",
+        "bg": "#808080",
+        "color": "#fff"
+      }
+    ],
+    "storage": [],
+    "description": "Nintendo Switch Lite portátil e leve, ideal para jogos em qualquer lugar.",
+    "specs": "Tela 5,5\", 32GB armazenamento, Joy-Con integrados, Portátil.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "ps4-slim",
+    "name": "Sony PlayStation 4 Slim",
+    "price": 2199.0,
+    "installments": "ou em até 12x de R$ 183,25 sem juros",
+    "images": [
+      "/assets/image/consoles/sony-playstation-4-slim-1.jpg",
+      "/assets/image/consoles/sony-playstation-4-slim-2.jpg",
+      "/assets/image/consoles/sony-playstation-4-slim.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "storage": [],
+    "description": "PlayStation 4 Slim, console compacto com excelente biblioteca de jogos e gráficos de alta qualidade.",
+    "specs": "CPU AMD Jaguar, GPU 1.84 TFLOPS, 8GB RAM, HDD 500GB, Jogos exclusivos PS4.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  }
+]

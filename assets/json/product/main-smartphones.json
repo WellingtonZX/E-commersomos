@@ -1,0 +1,663 @@
+[
+  {
+    "id": "iphone14",
+    "name": "iPhone 14",
+    "price": 6999.0,
+    "installments": "ou em até 12x de R$ 583,25 sem juros",
+    "images": [
+      "/assets/image/smartphones/iphone14.jpg",
+      "/assets/image/smartphones/iphone14-1.jpg",
+      "/assets/image/smartphones/iphone14-2.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      },
+      {
+        "name": "Branco",
+        "bg": "#fff",
+        "color": "#000"
+      },
+      {
+        "name": "Vermelho",
+        "bg": "#FF0000",
+        "color": "#fff"
+      }
+    ],
+    "storage": ["128GB", "256GB", "512GB"],
+    "description": "O iPhone 14 eleva o padrão com seu chip A15 Bionic para um desempenho ultrarrápido, uma tela Super Retina XDR vibrante e um sistema de câmera dupla avançado. Capture fotos incríveis em todas as condições de luz e grave vídeos cinematográficos com o Modo Cinema. Além disso, o novo Modo Ação proporciona vídeos incrivelmente estáveis, mesmo em movimento.",
+    "specs": "Tela de 6,1 polegadas Super Retina XDR (OLED) com True Tone, Chip A15 Bionic com GPU de 5 núcleos, Sistema de câmera dupla de 12MP (Grande-angular e Ultra-angular), Câmera frontal TrueDepth de 12MP com Foco Automático, Face ID, Conectividade 5G, Carregamento rápido e sem fio MagSafe, Classificação IP68 de resistência à água e poeira.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "s23",
+    "name": "Galaxy S23",
+    "price": 5499.0,
+    "installments": "ou em até 12x de R$ 458,25 sem juros",
+    "images": [
+      "/assets/image/smartphones/s23.jpg",
+      "/assets/image/smartphones/s23-1.jpg",
+      "/assets/image/smartphones/s23-2.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      },
+      {
+        "name": "Verde",
+        "bg": "#008000",
+        "color": "#fff"
+      },
+      {
+        "name": "Rosa",
+        "bg": "#FFC0CB",
+        "color": "#000"
+      }
+    ],
+    "storage": ["128GB", "256GB", "512GB"],
+    "description": "O Samsung Galaxy S23 foi projetado para elevar a sua experiência. Com um poderoso processador Snapdragon 8 Gen 2 for Galaxy e um sistema de câmera tripla de nível profissional, ele garante fotos e vídeos incríveis, mesmo em ambientes com pouca luz. A tela Dynamic AMOLED 2X de 120Hz oferece cores vivas e fluidez inigualável.",
+    "specs": "Tela de 6,1 polegadas Dynamic AMOLED 2X com taxa de atualização de 120Hz, Processador Snapdragon 8 Gen 2 for Galaxy, Câmera traseira tripla com 50MP (Principal), 12MP (Ultra-angular) e 10MP (Telefoto), Câmera frontal de 12MP, 8GB de RAM, Bateria de 3900mAh, Classificação IP68 de resistência à água e poeira.",
+    "reviews": [
+      {
+        "author": "Carlos Pereira",
+        "date": "15/05/2025",
+        "rating": 5,
+        "text": "A tela é a melhor que já vi em um celular, cores vibrantes e brilho intenso. Perfeito para consumir conteúdo."
+      },
+      {
+        "author": "Fernanda Lima",
+        "date": "12/05/2025",
+        "rating": 4,
+        "text": "Câmera incrível! As fotos em baixa luz saem com muita qualidade. Ótimo desempenho em jogos também."
+      },
+      {
+        "author": "Roberto Alves",
+        "date": "09/05/2025",
+        "rating": 5,
+        "text": "Mudança para o Android depois de anos. O Galaxy S23 me surpreendeu positivamente, muito rápido e a One UI é intuitiva."
+      }
+    ]
+  },
+  {
+    "id": "xiaomi13",
+    "name": "Xiaomi 13",
+    "price": 3899.0,
+    "installments": "ou em até 12x de R$ 324,92 sem juros",
+    "images": ["/assets/image/smartphones/xiaomi13.jpg", "/assets/image/smartphones/xiaomi13-1.jpg"],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      },
+      {
+        "name": "Prata",
+        "bg": "#C0C0C0",
+        "color": "#000"
+      }
+    ],
+    "storage": ["128GB", "256GB"],
+    "description": "O Xiaomi 13 oferece um desempenho de ponta com o processador Snapdragon 8 Gen 2. Sua câmera tripla de 50MP foi desenvolvida em parceria com a Leica, garantindo fotos com cores ricas e detalhes impressionantes. A tela AMOLED de 120Hz proporciona uma experiência visual fluida e imersiva.",
+    "specs": "Tela de 6,36 polegadas AMOLED com 120Hz de taxa de atualização, Processador Snapdragon 8 Gen 2, Sistema de câmera tripla Leica (50MP, 10MP Telefoto e 12MP Ultra-angular), Câmera frontal de 32MP, 8GB/12GB de RAM, Bateria de 4500mAh com carregamento rápido de 67W, Classificação IP68 de resistência à água e poeira.",
+    "reviews": [
+      {
+        "author": "Ana Costa",
+        "date": "14/05/2025",
+        "rating": 5,
+        "text": "Incrível! As fotos com a lente Leica são impressionantes. Melhor custo-benefício do mercado com certeza."
+      },
+      {
+        "author": "Lucas Martins",
+        "date": "11/05/2025",
+        "rating": 4,
+        "text": "O desempenho do processador é excelente, roda tudo sem engasgos. A bateria também é muito boa."
+      },
+      {
+        "author": "Gabriela Souza",
+        "date": "07/05/2025",
+        "rating": 5,
+        "text": "O design é elegante e a tela AMOLED é um espetáculo. Carrega super rápido, uma mão na roda no dia a dia."
+      }
+    ]
+  },
+  {
+    "id": "motorola-edge40",
+    "name": "Motorola Edge 40",
+    "price": 3199.0,
+    "installments": "ou em até 12x de R$ 266,58 sem juros",
+    "images": [
+      "/assets/image/smartphones/motorola-edge40.jpg",
+      "/assets/image/smartphones/motorola-edge40-1.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      },
+      {
+        "name": "Azul",
+        "bg": "#1E90FF",
+        "color": "#fff"
+      }
+    ],
+    "storage": ["128GB", "256GB"],
+    "description": "Com um design elegante e acabamento em couro vegano, o Motorola Edge 40 se destaca. Sua tela pOLED de bordas curvas é perfeita para uma experiência visual imersiva, complementada por um sistema de câmera duplo com estabilização óptica de imagem (OIS) para fotos e vídeos nítidos. O carregamento TurboPower de 68W garante que você nunca fique na mão.",
+    "specs": "Tela de 6,55 polegadas pOLED com bordas curvas, Processador MediaTek Dimensity 8020, Câmera principal de 50MP com OIS, Câmera híbrida de 13MP (Ultra-angular e Macro), 8GB de RAM, Bateria de 4400mAh com carregamento TurboPower de 68W, Classificação IP68 de resistência à água e poeira.",
+    "reviews": [
+      {
+        "author": "Patrícia Nunes",
+        "date": "16/05/2025",
+        "rating": 5,
+        "text": "Design premium e muito confortável de segurar. A tela com borda curva é linda e a fluidez é top."
+      },
+      {
+        "author": "Thiago Borges",
+        "date": "13/05/2025",
+        "rating": 4,
+        "text": "Um aparelho muito competente. A bateria dura o dia todo com uso moderado e a câmera tira fotos muito boas para redes sociais."
+      },
+      {
+        "author": "Julia Reis",
+        "date": "10/05/2025",
+        "rating": 4,
+        "text": "O carregamento rápido é uma funcionalidade que faz toda a diferença. O Android puro da Motorola é um ponto forte."
+      }
+    ]
+  },
+  {
+    "id": "realme11",
+    "name": "Realme 11 Pro+",
+    "price": 2899.0,
+    "installments": "ou em até 12x de R$ 241,58 sem juros",
+    "images": ["/assets/image/smartphones/realme11.jpg", "/assets/image/smartphones/realme11-1.jpg", "/assets/image/smartphones/realme11-2.jpg"],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      },
+      {
+        "name": "Azul",
+        "bg": "#00BFFF",
+        "color": "#fff"
+      }
+    ],
+    "storage": ["128GB", "256GB"],
+    "description": "O Realme 11 Pro+ é um divisor de águas no segmento. Equipado com uma câmera principal de 200MP e estabilização de imagem, ele captura fotos com detalhes impressionantes. O destaque é o carregamento SuperVOOC de 100W, que carrega a bateria em questão de minutos. Seu design com acabamento em couro vegano e tela curva dá um toque premium.",
+    "specs": "Tela de 6,7 polegadas AMOLED com bordas curvas e 120Hz de taxa de atualização, Processador MediaTek Dimensity 7050, Câmera principal de 200MP com OIS, 8GB/12GB de RAM, Bateria de 5000mAh com carregamento SuperVOOC de 100W, Classificação IP68 de resistência à água e poeira.",
+    "reviews": [
+      {
+        "author": "Bruno Cardoso",
+        "date": "18/05/2025",
+        "rating": 5,
+        "text": "A câmera de 200MP é uma maravilha. As fotos são ricas em detalhes e a tecnologia de carregamento é inacreditável, 100% em 20 minutos!"
+      },
+      {
+        "author": "Clara Rodrigues",
+        "date": "14/05/2025",
+        "rating": 4,
+        "text": "A tela AMOLED é vibrante e o design com acabamento em couro sintético é muito elegante. Bom desempenho para jogos leves."
+      },
+      {
+        "author": "Felipe Gomes",
+        "date": "11/05/2025",
+        "rating": 5,
+        "text": "Preço muito competitivo para o que oferece. O carregamento é o grande diferencial, nunca mais vou querer outro tipo de carregador."
+      }
+    ]
+  },
+  {
+    "id": "iphone13",
+    "name": "iPhone 13",
+    "price": 5799.0,
+    "installments": "ou em até 12x de R$ 483,25 sem juros",
+    "images": ["/assets/image/smartphones/iphone13.jpg", "/assets/image/smartphones/iphone13-1.jpg", "/assets/image/smartphones/iphone13-2.jpg"],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      },
+      {
+        "name": "Branco",
+        "bg": "#fff",
+        "color": "#000"
+      },
+      {
+        "name": "Vermelho",
+        "bg": "#FF0000",
+        "color": "#fff"
+      }
+    ],
+    "storage": ["128GB", "256GB", "512GB"],
+    "description": "O iPhone 13 combina o desempenho poderoso do chip A15 Bionic com um sistema de câmera dupla redesenhado para capturar fotos e vídeos de tirar o fôlego. A tela Super Retina XDR é mais brilhante do que nunca e a bateria aprimorada garante que você passe o dia todo conectado. É a escolha perfeita para quem busca confiabilidade e excelência.",
+    "specs": "Tela de 6,1 polegadas Super Retina XDR, Chip A15 Bionic, Sistema de câmera dupla de 12MP (Grande-angular e Ultra-angular) com estabilização óptica de imagem, Câmera frontal TrueDepth de 12MP, Face ID, Conectividade 5G, Carregamento rápido e sem fio MagSafe, Classificação IP68 de resistência à água e poeira.",
+    "reviews": [
+      {
+        "author": "Laura Rocha",
+        "date": "19/05/2025",
+        "rating": 5,
+        "text": "A bateria é excelente, dura facilmente um dia inteiro. A câmera continua sendo uma das melhores para vídeos e fotos."
+      },
+      {
+        "author": "Gustavo Ferreira",
+        "date": "16/05/2025",
+        "rating": 4,
+        "text": "Um aparelho muito confiável. O desempenho é impecável e não tenho do que reclamar. Um ótimo upgrade do meu antigo iPhone."
+      },
+      {
+        "author": "Mariana Pires",
+        "date": "13/05/2025",
+        "rating": 5,
+        "text": "O design é lindo e o aparelho é muito robusto. A integração com o ecossistema Apple é perfeita e vale a pena."
+      }
+    ]
+  },
+  {
+    "id": "galaxy-a54",
+    "name": "Galaxy A54",
+    "price": 2499.0,
+    "installments": "ou em até 12x de R$ 208,25 sem juros",
+    "images": ["/assets/image/smartphones/galaxy-a54.jpg","/assets/image/smartphones/galaxy-a54-1.jpg", "/assets/image/smartphones/galaxy-a54-2.jpg"],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      },
+      {
+        "name": "Azul",
+        "bg": "#1E90FF",
+        "color": "#fff"
+      },
+      {
+        "name": "Branco",
+        "bg": "#fff",
+        "color": "#000"
+      }
+    ],
+    "storage": ["128GB", "256GB"],
+    "description": "O Galaxy A54 é a escolha perfeita para quem busca um celular com recursos de ponta a um preço acessível. Ele conta com uma tela Super AMOLED brilhante, um sistema de câmera versátil que inclui uma lente macro para fotos detalhadas, e uma bateria de longa duração para acompanhar seu ritmo.",
+    "specs": "Tela de 6,4 polegadas Super AMOLED com 120Hz de taxa de atualização, Processador Exynos 1380, Câmera traseira tripla com 50MP (Principal), 12MP (Ultra-angular) e 5MP (Macro), Câmera frontal de 32MP, 8GB de RAM, Bateria de 5000mAh com carregamento rápido de 25W, Classificação IP67 de resistência à água e poeira.",
+    "reviews": [
+      {
+        "author": "Ricardo Ramos",
+        "date": "17/05/2025",
+        "rating": 4,
+        "text": "Excelente custo-benefício. A tela AMOLED é incrível para a faixa de preço e a bateria aguenta o dia todo sem problemas."
+      },
+      {
+        "author": "Bianca Ferreira",
+        "date": "15/05/2025",
+        "rating": 5,
+        "text": "Câmeras muito boas, as fotos ficam com cores vivas e o desempenho no dia a dia é bem fluido."
+      },
+      {
+        "author": "Guilherme Sampaio",
+        "date": "12/05/2025",
+        "rating": 4,
+        "text": "Um celular perfeito para quem não quer gastar muito, mas precisa de um bom desempenho. Recomendo."
+      }
+    ]
+  },
+  {
+    "id": "xiaomi13ultra",
+    "name": "Xiaomi 13 Ultra",
+    "price": 4999.0,
+    "installments": "ou em até 12x de R$ 416,58 sem juros",
+    "images": ["/assets/image/smartphones/xiaomi13ultra.jpg", "/assets/image/smartphones/xiaomi13ultra-1.jpg"],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      },
+      {
+        "name": "Prata",
+        "bg": "#C0C0C0",
+        "color": "#000"
+      }
+    ],
+    "storage": ["256GB", "512GB"],
+    "description": "O Xiaomi 13 Ultra é uma obra-prima da fotografia móvel. Sua câmera com lentes Leica e abertura variável oferece um controle profissional sobre suas fotos. Com o processador Snapdragon 8 Gen 2, ele entrega um desempenho de ponta para multitarefas e jogos pesados. A bateria com carregamento ultrarrápido de 120W garante que você esteja sempre pronto.",
+    "specs": "Tela de 6,73 polegadas AMOLED de 120Hz, Processador Snapdragon 8 Gen 2, Sistema de câmera quádrupla Leica com câmera principal de 50MP com abertura variável, 16GB de RAM, Bateria de 5000mAh com carregamento rápido de 90W e carregamento sem fio de 50W, Classificação IP68 de resistência à água e poeira.",
+    "reviews": [
+      {
+        "author": "Daniel Pereira",
+        "date": "19/05/2025",
+        "rating": 5,
+        "text": "O melhor smartphone que já tive. As câmeras com lentes Leica são insuperáveis e a tela é simplesmente perfeita."
+      },
+      {
+        "author": "Isabela Costa",
+        "date": "15/05/2025",
+        "rating": 5,
+        "text": "Performance de um verdadeiro top de linha. Roda qualquer jogo e aplicativo pesado sem nenhum problema."
+      },
+      {
+        "author": "Vinicius Santos",
+        "date": "12/05/2025",
+        "rating": 4,
+        "text": "A qualidade de construção é impecável e a bateria com carregamento de 120W é revolucionária."
+      }
+    ]
+  },
+  {
+    "id": "asus-rog6",
+    "name": "ASUS ROG Phone 6",
+    "price": 6499.0,
+    "installments": "ou em até 12x de R$ 541,58 sem juros",
+    "images": ["/assets/image/smartphones/asus-rog6.jpg", "/assets/image/smartphones/asus-rog6-1.jpg", "/assets/image/smartphones/asus-rog6-2.jpg"],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "storage": ["256GB", "512GB"],
+    "description": "O ASUS ROG Phone 6 é um monstro do desempenho, feito sob medida para gamers. Sua tela AMOLED de 165Hz proporciona a jogabilidade mais fluida possível, enquanto o sistema de resfriamento avançado mantém a temperatura baixa durante as sessões mais intensas. Os botões laterais AirTrigger e a bateria de 6000mAh garantem uma vantagem competitiva.",
+    "specs": "Tela de 6,78 polegadas AMOLED com taxa de atualização de 165Hz, Processador Snapdragon 8+ Gen 1, Câmera principal de 50MP, 12GB/16GB de RAM, Bateria de 6000mAh com carregamento rápido de 65W, Botões laterais programáveis AirTrigger, Classificação IPX4 de resistência a respingos.",
+    "reviews": [
+      {
+        "author": "Henrique Gomes",
+        "date": "20/05/2025",
+        "rating": 5,
+        "text": "O celular dos sonhos para qualquer gamer! O resfriamento é excelente e a tela de 165Hz torna a experiência de jogo surreal."
+      },
+      {
+        "author": "Larissa Oliveira",
+        "date": "18/05/2025",
+        "rating": 5,
+        "text": "Performance extrema. Roda os jogos mais pesados sem aquecer e a bateria de 6000mAh aguenta horas de jogo."
+      },
+      {
+        "author": "Rafael Pimenta",
+        "date": "15/05/2025",
+        "rating": 4,
+        "text": "Um aparelho fantástico para quem joga no celular. Os botões laterais são um diferencial enorme e muito bem pensados."
+      }
+    ]
+  },
+  {
+    "id": "oneplus11",
+    "name": "OnePlus 11",
+    "price": 4799.0,
+    "installments": "ou em até 12x de R$ 399,92 sem juros",
+    "images": ["/assets/image/smartphones/oneplus11.jpg", "/assets/image/smartphones/oneplus11-1.jpg", "/assets/image/smartphones/oneplus11-2.jpg"],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      },
+      {
+        "name": "Verde",
+        "bg": "#008000",
+        "color": "#fff"
+      }
+    ],
+    "storage": ["256GB", "512GB"],
+    "description": "O OnePlus 11 combina o melhor da performance com a experiência suave e limpa do OxygenOS. Com câmeras desenvolvidas em parceria com a Hasselblad, ele oferece cores e detalhes impressionantes em suas fotos. O carregamento SuperVOOC de 100W é um dos mais rápidos do mercado, permitindo que você recarregue o aparelho em menos de 30 minutos.",
+    "specs": "Tela de 6,7 polegadas AMOLED com taxa de atualização de 120Hz, Processador Snapdragon 8 Gen 2, Sistema de câmera tripla com lentes Hasselblad (50MP, 48MP e 32MP Telefoto), 12GB/16GB de RAM, Bateria de 5000mAh com carregamento SuperVOOC de 100W, Classificação IP64 de resistência a água e poeira.",
+    "reviews": [
+      {
+        "author": "Alice Ramos",
+        "date": "18/05/2025",
+        "rating": 5,
+        "text": "O sistema operacional é muito limpo e fluido. O carregamento de 100W é um divisor de águas, não consigo mais viver sem!"
+      },
+      {
+        "author": "João Miguel",
+        "date": "14/05/2025",
+        "rating": 4,
+        "text": "Câmeras com cores e nitidez excelentes, especialmente a principal. Bom desempenho no geral."
+      },
+      {
+        "author": "Cláudia Ribeiro",
+        "date": "11/05/2025",
+        "rating": 5,
+        "text": "A bateria dura o dia todo com uso intenso e a velocidade do carregamento é inacreditável. Muito feliz com a compra."
+      }
+    ]
+  },
+  {
+    "id": "motorola-g73",
+    "name": "Motorola G73",
+    "price": 1799.0,
+    "installments": "ou em até 12x de R$ 149,92 sem juros",
+    "images": ["/assets/image/smartphones/motorola-g73.jpg", "/assets/image/smartphones/motorola-g73-1.jpg", "/assets/image/smartphones/motorola-g73-2.jpg"],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      },
+      {
+        "name": "Azul",
+        "bg": "#1E90FF",
+        "color": "#fff"
+      }
+    ],
+    "storage": ["128GB"],
+    "description": "O Motorola G73 é o celular ideal para quem busca ótimo desempenho no dia a dia sem gastar muito. Com uma tela fluida de 120Hz e uma bateria de 5000mAh, ele garante que você navegue, jogue e assista a vídeos por horas. O sistema de câmera dupla captura fotos nítidas e vibrantes para as redes sociais.",
+    "specs": "Tela de 6,5 polegadas IPS LCD com 120Hz de taxa de atualização, Processador MediaTek Dimensity 930, Câmera principal de 50MP, 8GB de RAM, Bateria de 5000mAh, Carregamento rápido de 30W, Áudio estéreo com Dolby Atmos.",
+    "reviews": [
+      {
+        "author": "Eduardo Neves",
+        "date": "17/05/2025",
+        "rating": 5,
+        "text": "Pelo preço, o desempenho é surpreendente. A bateria dura muito e o celular atende todas as minhas necessidades."
+      },
+      {
+        "author": "Simone Vieira",
+        "date": "14/05/2025",
+        "rating": 4,
+        "text": "A câmera tira fotos decentes, mas o que mais me agradou foi a autonomia da bateria. Chego em casa com mais de 50% ainda."
+      },
+      {
+        "author": "Pedro Henrique",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "Um excelente celular para o dia a dia. Roda os aplicativos sem travar e tem um design moderno."
+      }
+    ]
+  },
+  {
+    "id": "iphone15",
+    "name": "iPhone 15",
+    "price": 7299.0,
+    "installments": "ou em até 12x de R$ 608,25 sem juros",
+    "images": ["/assets/image/smartphones/iphone15.jpg", "/assets/image/smartphones/iphone15-1.jpg", "/assets/image/smartphones/iphone15-2.jpg"],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      },
+      {
+        "name": "Branco",
+        "bg": "#fff",
+        "color": "#000"
+      },
+      {
+        "name": "Vermelho",
+        "bg": "#FF0000",
+        "color": "#fff"
+      }
+    ],
+    "storage": ["128GB", "256GB", "512GB"],
+    "description": "O iPhone 15 redefine a experiência de smartphone com sua nova Ilha Dinâmica, um chip A16 Bionic ainda mais poderoso e uma câmera principal de 48MP que captura fotos com uma riqueza de detalhes sem precedentes. A transição para a porta USB-C oferece maior conveniência e compatibilidade, enquanto o design robusto e a tela vibrante completam o conjunto.",
+    "specs": "Tela de 6,1 polegadas Super Retina XDR com Ilha Dinâmica, Chip A16 Bionic com GPU de 5 núcleos, Sistema de câmera dupla de 48MP (Principal) e 12MP (Ultra-angular), Câmera frontal TrueDepth de 12MP, Face ID, Porta USB-C, Conectividade 5G, Carregamento rápido e sem fio MagSafe, Classificação IP68 de resistência à água e poeira.",
+    "reviews": [
+      {
+        "author": "Carolina Mendes",
+        "date": "19/05/2025",
+        "rating": 5,
+        "text": "O Dynamic Island é uma funcionalidade genial! A transição para USB-C foi muito bem-vinda."
+      },
+      {
+        "author": "Marcelo Soares",
+        "date": "15/05/2025",
+        "rating": 5,
+        "text": "Como sempre, a Apple entregou um produto impecável. A câmera está ainda melhor e a performance é ultrarrápida."
+      },
+      {
+        "author": "Aline Castro",
+        "date": "11/05/2025",
+        "rating": 4,
+        "text": "O celular é excelente, só senti falta de uma maior inovação no design, mas as funcionalidades compensam."
+      }
+    ]
+  },
+  {
+    "id": "galaxy-zflip5",
+    "name": "Galaxy Z Flip 5",
+    "price": 6999.0,
+    "installments": "ou em até 12x de R$ 583,25 sem juros",
+    "images": ["/assets/image/smartphones/galaxy-zflip5.jpg", "/assets/image/smartphones/galaxy-zflip5-1.jpg", "/assets/image/smartphones/galaxy-zflip5-2.jpg"],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      },
+      {
+        "name": "Rosa",
+        "bg": "#FFC0CB",
+        "color": "#000"
+      }
+    ],
+    "storage": ["256GB", "512GB"],
+    "description": "O Samsung Galaxy Z Flip 5 combina o estilo retrô de um celular dobrável com a tecnologia mais moderna. Sua grande tela externa, chamada Flex Window, permite que você use aplicativos e veja notificações sem precisar abrir o aparelho. O design compacto e elegante esconde uma performance de ponta e câmeras de alta qualidade.",
+    "specs": "Tela interna de 6,7 polegadas Dynamic AMOLED 2X, Tela externa (Flex Window) de 3,4 polegadas Super AMOLED, Processador Snapdragon 8 Gen 2 for Galaxy, Câmera dupla traseira de 12MP (Grande-angular) e 12MP (Ultra-angular), 8GB de RAM, Bateria de 3700mAh com carregamento rápido e sem fio, Classificação IPX8 de resistência à água.",
+    "reviews": [
+      {
+        "author": "Paula Aguiar",
+        "date": "18/05/2025",
+        "rating": 5,
+        "text": "O design é inovador e a praticidade de ter um celular que cabe no bolso é fantástica! A tela externa é muito útil."
+      },
+      {
+        "author": "André Dias",
+        "date": "15/05/2025",
+        "rating": 4,
+        "text": "Um aparelho muito diferente e estiloso. A bateria poderia ser um pouco melhor, mas o carregamento é rápido."
+      },
+      {
+        "author": "Manuela Ferreira",
+        "date": "12/05/2025",
+        "rating": 5,
+        "text": "A tela dobrável funciona perfeitamente, e o aparelho é muito sólido. As fotos tiradas com o celular dobrado são um charme."
+      }
+    ]
+  },
+  {
+    "id": "redmi-note12",
+    "name": "Redmi Note 12",
+    "price": 1599.0,
+    "installments": "ou em até 12x de R$ 133,25 sem juros",
+    "images": ["/assets/image/smartphones/redmi-note-12.jpg", "/assets/image/smartphones/redmi-note-12-1.jpg", "/assets/image/smartphones/redmi-note-12-2.jpg"],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      },
+      {
+        "name": "Azul",
+        "bg": "#1E90FF",
+        "color": "#fff"
+      }
+    ],
+    "storage": ["128GB"],
+    "description": "O Redmi Note 12 é a melhor opção para quem busca um smartphone de entrada com recursos de intermediário. Sua tela AMOLED oferece cores vibrantes e pretos profundos, enquanto a bateria de 5000mAh garante que você use o aparelho o dia todo. O carregamento rápido de 33W é um diferencial importante para a categoria.",
+    "specs": "Tela de 6,67 polegadas AMOLED com 120Hz de taxa de atualização, Processador Snapdragon 685, Sistema de câmera tripla de 50MP (Principal), 8MP (Ultra-angular) e 2MP (Macro), Câmera frontal de 13MP, 4GB de RAM, Bateria de 5000mAh com carregamento rápido de 33W.",
+    "reviews": [
+      {
+        "author": "Roberto Cunha",
+        "date": "16/05/2025",
+        "rating": 5,
+        "text": "Custo-benefício imbatível. A tela é ótima para assistir vídeos e a bateria dura o dia inteiro tranquilamente."
+      },
+      {
+        "author": "Daniela Moura",
+        "date": "13/05/2025",
+        "rating": 4,
+        "text": "Um bom celular para uso diário. Roda os aplicativos de redes sociais e jogos leves sem problemas."
+      },
+      {
+        "author": "Fernando Lopes",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "Excelente para quem procura um smartphone acessível e confiável. A câmera tira fotos decentes para o valor."
+      }
+    ]
+  },
+  {
+    "id": "realme-c55",
+    "name": "Realme C55",
+    "price": 1299.0,
+    "installments": "ou em até ou em até 12x de R$ 108,25 sem juros",
+    "images": ["/assets/image/smartphones/realme-c55.jpg", "/assets/image/smartphones/realme-c55-1.jpg", "/assets/image/smartphones/realme-c55-2.jpg"],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      },
+      {
+        "name": "Azul",
+        "bg": "#1E90FF",
+        "color": "#fff"
+      }
+    ],
+    "storage": ["64GB", "128GB"],
+    "description": "O Realme C55 é a prova de que você não precisa gastar muito para ter um celular moderno. Ele possui a Mini Cápsula, uma funcionalidade inovadora que exibe notificações e status de forma inteligente. Sua bateria de 5000mAh oferece autonomia para o dia todo e o carregamento rápido de 33W garante que você volte à ativa em pouco tempo.",
+    "specs": "Tela de 6,72 polegadas IPS LCD com 90Hz de taxa de atualização, Processador MediaTek Helio G88, Câmera principal de 64MP, 6GB de RAM, Bateria de 5000mAh com carregamento rápido de 33W, Leitor de impressão digital na lateral, Mini Cápsula.",
+    "reviews": [
+      {
+        "author": "Lucas Ribeiro",
+        "date": "18/05/2025",
+        "rating": 5,
+        "text": "Melhor aparelho na sua faixa de preço. A bateria é incrível, dura mais de um dia inteiro."
+      },
+      {
+        "author": "Juliana Santos",
+        "date": "15/05/2025",
+        "rating": 4,
+        "text": "O design é muito bonito e o celular tem um desempenho honesto para tarefas básicas. Recomendo."
+      },
+      {
+        "author": "Renato Fonseca",
+        "date": "12/05/2025",
+        "rating": 5,
+        "text": "Comprei para o meu filho e ele adorou. É rápido o suficiente para os aplicativos e jogos dele e a bateria não o deixa na mão."
+      }
+    ]
+  }
+]

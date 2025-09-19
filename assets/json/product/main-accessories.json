@@ -1,0 +1,425 @@
+[
+  {
+    "id": "capinha-iphone",
+    "name": "Capinha Silicone iPhone",
+    "price": 49.9,
+    "installments": "ou em até 2x de R$ 24,95 sem juros",
+    "images": [
+      "/assets/image/accessories/capinha-silicone-iphone-1.jpg",
+      "/assets/image/accessories/capinha-silicone-iphone.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      },
+      {
+        "name": "Transparente",
+        "bg": "#ffffff",
+        "color": "#000"
+      },
+      {
+        "name": "Rosa",
+        "bg": "#FFC0CB",
+        "color": "#000"
+      }
+    ],
+    "storage": [],
+    "description": "Capinha de silicone macia e resistente, protege seu iPhone contra quedas e arranhões.",
+    "specs": "Compatível com iPhone 12/13/14, material em silicone de alta qualidade.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "carregador-usb-c",
+    "name": "Carregador Turbo USB-C",
+    "price": 89.0,
+    "installments": "ou em até 2x de R$ 44,50 sem juros",
+    "images": [
+      "/assets/image/accessories/carregador-turbo-usb-c-1.jpg",
+      "/assets/image/accessories/carregador-turbo-usb-c-2.jpg",
+      "/assets/image/accessories/carregador-turbo-usb-c.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "storage": [],
+    "description": "Carregador rápido USB-C com potência de até 30W, compatível com smartphones e tablets.",
+    "specs": "Entrada 100-240V, saída 5V/3A ou 9V/2A, proteção contra sobrecarga.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "suporte-celular",
+    "name": "Suporte Veicular Magnético",
+    "price": 35.0,
+    "installments": "ou em até 1x de R$ 35,00",
+    "images": [
+      "/assets/image/accessories/suporte-veicular-magnetico-1.jpg",
+      "/assets/image/accessories/suporte-veicular-magnetico-2.jpg",
+      "/assets/image/accessories/suporte-veicular-magnetico.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "storage": [],
+    "description": "Suporte veicular magnético para celulares, fixação segura no painel ou saída de ar.",
+    "specs": "Compatível com smartphones de 4\" a 7\", base magnética forte e giratória 360°.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "tripe",
+    "name": "Tripé Universal 1,20m",
+    "price": 99.0,
+    "installments": "ou em até ou em até 2x de R$ 49,50 sem juros",
+    "images": [
+      "/assets/image/accessories/tripe-universal1.jpg",
+      "/assets/image/accessories/tripe-universal.jpg",
+      "/assets/image/accessories/tripe-universal.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "storage": [],
+    "description": "Tripé universal ajustável até 1,20m, compatível com câmeras, celulares e ring lights.",
+    "specs": "Material em alumínio, cabeça giratória, pés antiderrapantes.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "powerbank",
+    "name": "Power Bank 20.000mAh",
+    "price": 199.0,
+    "installments": "ou em até 4x de R$ 49,75 sem juros",
+    "images": [
+      "/assets/image/accessories/power-bank-20000mah-1.jpg",
+      "/assets/image/accessories/power-bank-20000mah-2.jpg",
+      "/assets/image/accessories/power-bank-20000mah.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "storage": [],
+    "description": "Bateria portátil de 20.000mAh, compatível com smartphones, tablets e outros dispositivos USB.",
+    "specs": "Entrada USB-C, duas saídas USB, indicador de carga LED, proteção contra curto-circuito.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "cabo-lightning",
+    "name": "Cabo Lightning Original",
+    "price": 69.0,
+    "installments": "ou em até 2x de R$ 34,50 sem juros",
+    "images": [
+      "/assets/image/accessories/cabo-lightning-original-1.jpg",
+      "/assets/image/accessories/cabo-lightning-original-2.jpg",
+      "/assets/image/accessories/cabo-lightning-original.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Branco",
+        "bg": "#fff",
+        "color": "#000"
+      }
+    ],
+    "storage": [],
+    "description": "Cabo Lightning original para iPhone e iPad, carregamento rápido e sincronização de dados.",
+    "specs": "Comprimento 1m, compatível com todos os dispositivos Apple com entrada Lightning.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "pelicula",
+    "name": "Película de Vidro 9D",
+    "price": 29.9,
+    "installments": "ou em até 1x de R$ 29,90",
+    "images": [
+      "/assets/image/accessories/pelicula-de-vidro-9d-1.jpg",
+      "/assets/image/accessories/pelicula-de-vidro-9d-2.jpg",
+      "/assets/image/accessories/pelicula-de-vidro-9d.jpg"
+    ],
+    "colors": [],
+    "storage": [],
+    "description": "Película de vidro temperado 9D para máxima proteção da tela do seu smartphone.",
+    "specs": "Compatível com vários modelos de iPhone e Samsung, bordas arredondadas, alta sensibilidade ao toque.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "teclado-bluetooth",
+    "name": "Teclado Bluetooth Portátil",
+    "price": 129.9,
+    "installments": "ou em até 3x de R$ 43,30 sem juros",
+    "images": [
+      "/assets/image/accessories/teclado-bluetooth-portatil-1.jpg",
+      "/assets/image/accessories/teclado-bluetooth-portatil-2.jpg",
+      "/assets/image/accessories/teclado-bluetooth-portatil.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      },
+      {
+        "name": "Prata",
+        "bg": "#C0C0C0",
+        "color": "#000"
+      }
+    ],
+    "storage": [],
+    "description": "Teclado Bluetooth portátil, compatível com tablets, smartphones e notebooks.",
+    "specs": "Conexão Bluetooth 5.0, bateria recarregável, design fino e leve.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "suporte-notebook",
+    "name": "Suporte Dobrável Notebook",
+    "price": 89.9,
+    "installments": "ou em até 2x de R$ 44,95 sem juros",
+    "images": [
+      "/assets/image/accessories/suporte-dobravel-notebook-1.jpg",
+      "/assets/image/accessories/suporte-dobravel-notebook-2.jpg",
+      "/assets/image/accessories/suporte-dobravel-notebook.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "storage": [],
+    "description": "Suporte dobrável para notebooks, ajustável em altura e ângulo, melhora ergonomia.",
+    "specs": "Alumínio resistente, dobrável, suporta notebooks de até 17\".",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "mouse-sem-fio",
+    "name": "Mouse Sem Fio USB",
+    "price": 79.0,
+    "installments": "ou em até 2x de R$ 39,50 sem juros",
+    "images": [
+      "/assets/image/accessories/mouse-sem-fio-usb-1.jpg",
+      "/assets/image/accessories/mouse-sem-fio-usb-2.jpg",
+      "/assets/image/accessories/mouse-sem-fio-usb.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      },
+      {
+        "name": "Cinza",
+        "bg": "#808080",
+        "color": "#fff"
+      }
+    ],
+    "storage": [],
+    "description": "Mouse sem fio USB, com design ergonômico e alta precisão para trabalho e lazer.",
+    "specs": "Conexão USB 2.0, bateria AA, sensor óptico de alta precisão.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  }
+]

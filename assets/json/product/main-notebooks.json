@@ -1,0 +1,437 @@
+[
+  {
+    "id": "macbook-air-m2",
+    "name": "MacBook Air M2",
+    "price": 9999,
+    "installments": "ou em até 12x de R$ 833,25 sem juros",
+    "images": [
+      "/assets/image/notebooks/macbook-air-m2.jpg",
+      "/assets/image/notebooks/macbook-air-m2-1.jpg",
+      "/assets/image/notebooks/macbook-air-m2-2.jpg"
+    ],
+    "colors": [
+      { "name": "Prata", "bg": "#C0C0C0", "color": "#000" },
+      { "name": "Cinza-espacial", "bg": "#2E2E2E", "color": "#fff" }
+    ],
+    "storage": ["256GB SSD", "512GB SSD", "1TB SSD"],
+    "description": "O MacBook Air M2 oferece alto desempenho com processador Apple M2, tela Retina e bateria de longa duração.",
+    "specs": "Processador Apple M2, 8GB RAM, até 1TB SSD, Tela Retina 13,6\", Peso 1,24kg.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "macbook-pro-m3",
+    "name": "MacBook Pro M3",
+    "price": 14999,
+    "installments": "ou em até 12x de R$ 1.249,92 sem juros",
+    "images": [
+      "/assets/image/notebooks/macbook-pro-m3.jpg",
+      "/assets/image/notebooks/macbook-pro-m3-1.jpg",
+      "/assets/image/notebooks/macbook-pro-m3-2.jpg"
+    ],
+    "colors": [
+      { "name": "Prata", "bg": "#C0C0C0", "color": "#000" },
+      { "name": "Cinza-espacial", "bg": "#2E2E2E", "color": "#fff" }
+    ],
+    "storage": ["512GB SSD", "1TB SSD", "2TB SSD"],
+    "description": "O MacBook Pro M3 oferece desempenho profissional com chip M3, ideal para edição de vídeo e design gráfico.",
+    "specs": "Processador Apple M3, 16GB RAM, até 2TB SSD, Tela Retina 14\" ou 16\", Peso 1,6kg.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "dell-xps-13",
+    "name": "Dell XPS 13",
+    "price": 8799,
+    "installments": "ou em até 12x de R$ 733,25 sem juros",
+    "images": [
+      "/assets/image/notebooks/dell-xps-13.jpg",
+      "/assets/image/notebooks/dell-xps-13-1.jpg",
+      "/assets/image/notebooks/dell-xps-13-2.jpg"
+    ],
+    "colors": [
+      { "name": "Prata", "bg": "#C0C0C0", "color": "#000" },
+      { "name": "Preto", "bg": "#000", "color": "#fff" }
+    ],
+    "storage": ["256GB SSD", "512GB SSD", "1TB SSD"],
+    "description": "O Dell XPS 13 combina portabilidade e potência com design premium e tela InfinityEdge.",
+    "specs": "Intel Core i7, 16GB RAM, até 1TB SSD, Tela 13,4\" FHD ou 4K, Peso 1,2kg.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "lenovo-thinkpad-x1",
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "price": 7999,
+    "installments": "ou em até 12x de R$ 666,58 sem juros",
+    "images": [
+      "/assets/image/notebooks/lenovo-thinkpad-x1-carbon.jpg",
+      "/assets/image/notebooks/lenovo-thinkpad-x1-carbon-1.jpg",
+      "/assets/image/notebooks/lenovo-thinkpad-x1-carbon-2.jpg"
+    ],
+    "colors": [{ "name": "Preto", "bg": "#000", "color": "#fff" }],
+    "storage": ["256GB SSD", "512GB SSD", "1TB SSD"],
+    "description": "ThinkPad X1 Carbon: notebook corporativo ultraleve, resistente e com ótima performance.",
+    "specs": "Intel Core i7, 16GB RAM, até 1TB SSD, Tela 14\" FHD, Peso 1,13kg.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "asus-zenbook-14",
+    "name": "ASUS ZenBook 14",
+    "price": 6499,
+    "installments": "ou em até 12x de R$ 541,58 sem juros",
+    "images": [
+      "/assets/image/notebooks/asus-zenbook-14.jpg",
+      "/assets/image/notebooks/asus-zenbook-14-1.jpg",
+      "/assets/image/notebooks/asus-zenbook-14-2.jpg"
+    ],
+    "colors": [
+      { "name": "Prata", "bg": "#C0C0C0", "color": "#000" },
+      { "name": "Cinza", "bg": "#808080", "color": "#fff" }
+    ],
+    "storage": ["256GB SSD", "512GB SSD", "1TB SSD"],
+    "description": "ASUS ZenBook 14 combina portabilidade e desempenho com design elegante e tela NanoEdge.",
+    "specs": "Intel Core i5/i7, 16GB RAM, até 1TB SSD, Tela 14\" FHD, Peso 1,2kg.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "acer-aspire-5",
+    "name": "Acer Aspire 5",
+    "price": 3499,
+    "installments": "ou em até 12x de R$ 291,58 sem juros",
+    "images": [
+      "/assets/image/notebooks/acer-aspire-5.jpg",
+      "/assets/image/notebooks/acer-aspire-5-1.jpg",
+      "/assets/image/notebooks/acer-aspire-5-2.jpg"
+    ],
+    "colors": [{ "name": "Prata", "bg": "#C0C0C0", "color": "#000" }],
+    "storage": ["256GB SSD", "512GB SSD"],
+    "description": "Acer Aspire 5 oferece bom desempenho para uso diário e multimídia com excelente custo-benefício.",
+    "specs": "Intel Core i5, 8GB RAM, até 512GB SSD, Tela 15,6\" FHD, Peso 1,8kg.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "hp-pavilion-15",
+    "name": "HP Pavilion 15",
+    "price": 4199,
+    "installments": "ou em até 12x de R$ 349,92 sem juros",
+    "images": [
+      "/assets/image/notebooks/hp-pavilion-15.jpg",
+      "/assets/image/notebooks/hp-pavilion-15-1.jpg",
+      "/assets/image/notebooks/hp-pavilion-15-2.jpg"
+    ],
+    "colors": [{ "name": "Prata", "bg": "#C0C0C0", "color": "#000" }],
+    "storage": ["256GB SSD", "512GB SSD"],
+    "description": "HP Pavilion 15: notebook para produtividade e entretenimento com design moderno.",
+    "specs": "Intel Core i5, 8GB RAM, até 512GB SSD, Tela 15,6\" FHD, Peso 1,75kg.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "samsung-galaxy-book3",
+    "name": "Samsung Galaxy Book3",
+    "price": 5499,
+    "installments": "ou em até 12x de R$ 458,25 sem juros",
+    "images": [
+      "/assets/image/notebooks/samsung-galaxy-book3.jpg",
+      "/assets/image/notebooks/samsung-galaxy-book3-1.jpg",
+      "/assets/image/notebooks/samsung-galaxy-book3-2.jpg"
+    ],
+    "colors": [
+      { "name": "Prata", "bg": "#C0C0C0", "color": "#000" },
+      { "name": "Cinza", "bg": "#808080", "color": "#fff" }
+    ],
+    "storage": ["256GB SSD", "512GB SSD", "1TB SSD"],
+    "description": "Samsung Galaxy Book3: notebook fino, leve e potente, ideal para trabalho e entretenimento.",
+    "specs": "Intel Core i7, 16GB RAM, até 1TB SSD, Tela 15,6\" FHD, Peso 1,55kg.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "msi-gf63",
+    "name": "MSI GF63 Thin",
+    "price": 6299,
+    "installments": "ou em até 12x de R$ 524,92 sem juros",
+    "images": [
+      "/assets/image/notebooks/msi-gf63-thin.jpg",
+      "/assets/image/notebooks/msi-gf63-thin-1.jpg",
+      "/assets/image/notebooks/msi-gf63-thin-2.jpg"
+    ],
+    "colors": [{ "name": "Preto", "bg": "#000", "color": "#fff" }],
+    "storage": ["512GB SSD", "1TB SSD"],
+    "description": "MSI GF63 Thin: notebook gamer compacto com bom desempenho gráfico e processador rápido.",
+    "specs": "Intel Core i5/i7, 8GB/16GB RAM, até 1TB SSD, Tela 15,6\" FHD, Placa de vídeo GTX 1650, Peso 1,86kg.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "razer-blade-15",
+    "name": "Razer Blade 15",
+    "price": 12499,
+    "installments": "ou em até 12x de R$ 1.041,58 sem juros",
+    "images": [
+      "/assets/image/notebooks/razer-blade-15.jpg",
+      "/assets/image/notebooks/razer-blade-15-1.jpg",
+      "/assets/image/notebooks/razer-blade-15-2.jpg"
+    ],
+    "colors": [{ "name": "Preto", "bg": "#000", "color": "#fff" }],
+    "storage": ["512GB SSD", "1TB SSD", "2TB SSD"],
+    "description": "Razer Blade 15: notebook gamer premium com design elegante e alto desempenho.",
+    "specs": "Intel Core i7, 16GB RAM, até 2TB SSD, Tela 15,6\" FHD, Placa de vídeo RTX 3060, Peso 2kg.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "lenovo-legion-5",
+    "name": "Lenovo Legion 5",
+    "price": 7299,
+    "installments": "ou em até 12x de R$ 608,25 sem juros",
+    "images": [
+      "/assets/image/notebooks/lenovo-legion-5.jpg",
+      "/assets/image/notebooks/lenovo-legion-5-1.jpg",
+      "/assets/image/notebooks/lenovo-legion-5-2.jpg"
+    ],
+    "colors": [{ "name": "Preto", "bg": "#000", "color": "#fff" }],
+    "storage": ["512GB SSD", "1TB SSD"],
+    "description": "Lenovo Legion 5: notebook gamer com ótimo desempenho, bom sistema de resfriamento e teclado confortável.",
+    "specs": "AMD Ryzen 7, 16GB RAM, até 1TB SSD, Tela 15,6\" FHD, Placa de vídeo RTX 3060, Peso 2,1kg.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "hp-omen-16",
+    "name": "HP Omen 16",
+    "price": 9199,
+    "installments": "ou em até 12x de R$ 766,58 sem juros",
+    "images": [
+      "/assets/image/notebooks/hp-omen-16.jpg",
+      "/assets/image/notebooks/hp-omen-16-1.jpg",
+      "/assets/image/notebooks/hp-omen-16-2.jpg"
+    ],
+    "colors": [{ "name": "Preto", "bg": "#000", "color": "#fff" }],
+    "storage": ["512GB SSD", "1TB SSD", "2TB SSD"],
+    "description": "HP Omen 16: notebook gamer de alto desempenho com tela de 16\" e teclado RGB.",
+    "specs": "Intel Core i7, 16GB RAM, até 2TB SSD, Tela 16\" FHD, Placa de vídeo RTX 3070, Peso 2,4kg.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  }
+]

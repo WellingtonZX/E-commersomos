@@ -1,0 +1,507 @@
+[
+  {
+    "id": "dell-xps-desktop",
+    "name": "Dell XPS Desktop",
+    "price": 8499.0,
+    "installments": "ou em até 12x de R$ 708,25 sem juros",
+    "images": [
+      "/assets/image/computers/dell-xps-desktop-1.jpg",
+      "/assets/image/computers/dell-xps-desktop-2.jpg",
+      "/assets/image/computers/dell-xps-desktop.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "storage": [],
+    "description": "Desktop Dell XPS com design elegante e performance avançada, ideal para produtividade e criação de conteúdo.",
+    "specs": "Processador Intel i7, 16GB RAM, SSD 512GB, NVIDIA GTX 1660, Windows 11.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "hp-omen",
+    "name": "HP Omen Gaming PC",
+    "price": 9299.0,
+    "installments": "ou em até 12x de R$ 774,92 sem juros",
+    "images": [
+      "/assets/image/computers/hp-omen-gaming-pc-1.jpg",
+      "/assets/image/computers/hp-omen-gaming-pc-2.jpg",
+      "/assets/image/computers/hp-omen-gaming-pc.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "storage": [],
+    "description": "PC Gamer HP Omen com hardware potente, ideal para jogos AAA e streaming.",
+    "specs": "Processador Intel i9, 32GB RAM, SSD 1TB, NVIDIA RTX 3080, Windows 11.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "lenovo-thinkcentre",
+    "name": "Lenovo ThinkCentre M70s",
+    "price": 4999.0,
+    "installments": "ou em até 12x de R$ 416,58 sem juros",
+    "images": [
+      "/assets/image/computers/lenovo-thinkcentre-m70s-1.jpg",
+      "/assets/image/computers/lenovo-thinkcentre-m70s-2.jpg",
+      "/assets/image/computers/lenovo-thinkcentre-m70s.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "storage": [],
+    "description": "Desktop empresarial Lenovo ThinkCentre M70s, confiável e compacto, para ambientes corporativos.",
+    "specs": "Processador Intel i5, 8GB RAM, SSD 256GB, Windows 11 Pro.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "asus-rog-strix",
+    "name": "ASUS ROG Strix G15",
+    "price": 11499.0,
+    "installments": "ou em até 12x de R$ 958,25 sem juros",
+    "images": [
+      "/assets/image/computers/asus-rog-strix-g15-1.jpg",
+      "/assets/image/computers/asus-rog-strix-g15-2.jpg",
+      "/assets/image/computers/asus-rog-strix-g15.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      },
+      {
+        "name": "Cinza",
+        "bg": "#555",
+        "color": "#fff"
+      }
+    ],
+    "storage": [],
+    "description": "Desktop gamer ASUS ROG Strix com alto desempenho e recursos avançados para gamers exigentes.",
+    "specs": "Processador AMD Ryzen 9, 32GB RAM, SSD 1TB, NVIDIA RTX 4070, Windows 11.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "acer-predator",
+    "name": "Acer Predator Orion 5000",
+    "price": 12799.0,
+    "installments": "ou em até 12x de R$ 1.066,58 sem juros",
+    "images": [
+      "/assets/image/computers/acer-predator-orion-5000-1.jpg",
+      "/assets/image/computers/acer-predator-orion-5000-2.jpg",
+      "/assets/image/computers/acer-predator-orion-5000.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "storage": [],
+    "description": "PC gamer Acer Predator Orion 5000 com hardware de última geração, ideal para jogos AAA e streaming de alta performance.",
+    "specs": "Processador Intel i9, 64GB RAM, SSD 2TB, NVIDIA RTX 4090, Windows 11.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "apple-mac-mini",
+    "name": "Apple Mac Mini M2",
+    "price": 7299.0,
+    "installments": "ou em até 12x de R$ 608,25 sem juros",
+    "images": [
+      "/assets/image/computers/apple-mac-mini-m2-1.jpg",
+      "/assets/image/computers/apple-mac-mini-m2-2.jpg",
+      "/assets/image/computers/apple-mac-mini-m2.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Prata",
+        "bg": "#C0C0C0",
+        "color": "#000"
+      }
+    ],
+    "storage": [],
+    "description": "Mac Mini com chip M2, compacto e potente, ideal para produtividade, design e tarefas multimídia.",
+    "specs": "Apple M2, 16GB RAM, SSD 512GB, macOS Ventura.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "dell-optiplex",
+    "name": "Dell OptiPlex 7000",
+    "price": 5499.0,
+    "installments": "ou em até 12x de R$ 458,25 sem juros",
+    "images": [
+      "/assets/image/computers/dell-optiplex-7000-1.jpg",
+      "/assets/image/computers/dell-optiplex-7000-2.jpg",
+      "/assets/image/computers/dell-optiplex-7000.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "storage": [],
+    "description": "Desktop empresarial Dell OptiPlex 7000, ideal para escritórios e produtividade corporativa.",
+    "specs": "Processador Intel i7, 16GB RAM, SSD 512GB, Windows 11 Pro.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "custom-gamer",
+    "name": "PC Gamer RTX 4070 + Ryzen 7",
+    "price": 10999.0,
+    "installments": "ou em até 12x de R$ 916,58 sem juros",
+    "images": [
+      "/assets/image/computers/pc-gamer-rtx-4070-ryzen-7-1.jpg",
+      "/assets/image/computers/pc-gamer-rtx-4070-ryzen-7-2.jpg",
+      "/assets/image/computers/pc-gamer-rtx-4070-ryzen-7.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "storage": [],
+    "description": "Computador gamer personalizado com hardware de alto desempenho, pronto para jogos exigentes e streaming.",
+    "specs": "Processador AMD Ryzen 7, 32GB RAM, SSD 1TB, NVIDIA RTX 4070, Windows 11.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "intel-nuc",
+    "name": "Intel NUC 13 Extreme",
+    "price": 8899.0,
+    "installments": "ou em até 12x de R$ 741,58 sem juros",
+    "images": [
+      "/assets/image/computers/intel-nuc-13-extreme-1.jpg",
+      "/assets/image/computers/intel-nuc-13-extreme-2.jpg",
+      "/assets/image/computers/intel-nuc-13-extreme.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "storage": [],
+    "description": "Mini PC Intel NUC 13 Extreme, compacto mas poderoso, ideal para produtividade e home office.",
+    "specs": "Processador Intel i7, 16GB RAM, SSD 1TB, Windows 11.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "lenovo-legion",
+    "name": "Lenovo Legion Tower 5i",
+    "price": 9799.0,
+    "installments": "ou em até 12x de R$ 816,58 sem juros",
+    "images": [
+      "/assets/image/computers/lenovo-legion-tower-5i-1.jpg",
+      "/assets/image/computers/lenovo-legion-tower-5i.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "storage": [],
+    "description": "PC gamer Lenovo Legion Tower 5i, ideal para jogos AAA e multitarefa pesada.",
+    "specs": "Processador Intel i7, 16GB RAM, SSD 1TB, NVIDIA RTX 3060, Windows 11.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "positivo-slim",
+    "name": "Positivo Slim Office",
+    "price": 2499.0,
+    "installments": "ou em até 12x de R$ 208,25 sem juros",
+    "images": [
+      "/assets/image/computers/positivo-slim-office-1.jpg",
+      "/assets/image/computers/positivo-slim-office-2.jpg",
+      "/assets/image/computers/positivo-slim-office.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "storage": [],
+    "description": "PC Positivo Slim Office, compacto e econômico, ideal para tarefas básicas e escritório.",
+    "specs": "Processador Intel i3, 8GB RAM, SSD 256GB, Windows 11 Home.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "imac-24",
+    "name": "Apple iMac 24” M1",
+    "price": 11999.0,
+    "installments": "ou em até 12x de R$ 999,92 sem juros",
+    "images": [
+      "/assets/image/computers/apple-imac-24-m1-1.jpg",
+      "/assets/image/computers/apple-imac-24-m1.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Verde",
+        "bg": "#00FF00",
+        "color": "#000"
+      },
+      {
+        "name": "Azul",
+        "bg": "#0000FF",
+        "color": "#fff"
+      },
+      {
+        "name": "Rosa",
+        "bg": "#FFC0CB",
+        "color": "#000"
+      }
+    ],
+    "storage": [],
+    "description": "iMac 24” com chip Apple M1, ideal para produtividade, design gráfico e multimídia.",
+    "specs": "Apple M1, 16GB RAM, SSD 512GB, Tela Retina 4.5K, macOS Ventura.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  }
+]

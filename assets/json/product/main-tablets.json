@@ -1,0 +1,571 @@
+[
+  {
+    "id": "ipad-pro-12",
+    "name": "Apple iPad Pro 12.9”",
+    "price": 8999,
+    "installments": "ou em até 10x de R$ 899,90 sem juros",
+    "storage": ["128GB", "256GB", "512GB", "1TB"],
+    "colors": [
+      {
+        "name": "Cinza-espacial",
+        "bg": "#555",
+        "color": "#fff"
+      },
+      {
+        "name": "Prata",
+        "bg": "#ddd",
+        "color": "#000"
+      }
+    ],
+    "images": [
+      "/assets/image/tablets/apple-ipad-pro-12.9-1.jpg",
+      "/assets/image/tablets/apple-ipad-pro-12.9-2.jpg",
+      "/assets/image/tablets/apple-ipad-pro-12.9.jpg"
+    ],
+    "description": "O iPad Pro 12.9” é o tablet mais poderoso da Apple, ideal para produtividade e criatividade.",
+    "specs": "Tela Liquid Retina XDR 12,9” | Chip M2 | Apple Pencil 2 | Face ID | iPadOS",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "ipad-air-5",
+    "name": "Apple iPad Air 5ª geração",
+    "price": 5499,
+    "installments": "ou em até 10x de R$ 549,90 sem juros",
+    "storage": ["64GB", "256GB"],
+    "colors": [
+      {
+        "name": "Azul",
+        "bg": "#4a90e2",
+        "color": "#fff"
+      },
+      {
+        "name": "Cinza-espacial",
+        "bg": "#555",
+        "color": "#fff"
+      }
+    ],
+    "images": [
+      "/assets/image/tablets/apple-ipad-air-5-geracao-1.jpg",
+      "/assets/image/tablets/apple-ipad-air-5-geracao-2.jpg",
+      "/assets/image/tablets/apple-ipad-air-5-geracao.jpg"
+    ],
+    "description": "O iPad Air é leve, rápido e ideal para estudos e entretenimento.",
+    "specs": "Tela Liquid Retina 10,9” | Chip M1 | Touch ID | Apple Pencil 2 | iPadOS",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "samsung-galaxy-tab-s9",
+    "name": "Samsung Galaxy Tab S9",
+    "price": 6299,
+    "installments": "ou em até 10x de R$ 629,90 sem juros",
+    "storage": ["128GB", "256GB"],
+    "colors": [
+      {
+        "name": "Grafite",
+        "bg": "#333",
+        "color": "#fff"
+      },
+      {
+        "name": "Bege",
+        "bg": "#f5e1b3",
+        "color": "#000"
+      }
+    ],
+    "images": [
+      "/assets/image/tablets/samsung-galaxy-tab-s9-1.jpg",
+      "/assets/image/tablets/samsung-galaxy-tab-s9.png",
+      "/assets/image/tablets/samsung-galaxy-tab-s9.jpg"
+    ],
+    "description": "Tablet premium da Samsung com tela AMOLED e suporte à S Pen.",
+    "specs": "Tela AMOLED 11” | Snapdragon 8 Gen 2 | Android 13 | S Pen inclusa",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "lenovo-tab-p11",
+    "name": "Lenovo Tab P11",
+    "price": 2799,
+    "installments": "ou em até 10x de R$ 279,90 sem juros",
+    "storage": ["128GB"],
+    "colors": [
+      {
+        "name": "Cinza",
+        "bg": "#666",
+        "color": "#fff"
+      }
+    ],
+    "images": [
+      "/assets/image/tablets/lenovo-tab-p11-1.jpg",
+      "/assets/image/tablets/lenovo-tab-p11-2.jpg",
+      "/assets/image/tablets/lenovo-tab-p11.jpg"
+    ],
+    "description": "Tablet Lenovo com tela 2K e bom desempenho para produtividade.",
+    "specs": "Tela 11” 2K | Snapdragon 662 | Android 11 | 6GB RAM",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "ipad-pro-m2",
+    "name": "Apple iPad Pro (M2)",
+    "price": 11999.0,
+    "installments": "ou em até 10x de R$1.199,90 sem juros",
+    "storage": ["128GB", "256GB", "512GB", "1TB"],
+    "colors": ["cinza-espacial", "prata"],
+    "images": [
+      "/assets/image/tablets/apple-ipad-pro-m2.jpg",
+      "/assets/image/tablets/apple-ipad-pro-m2-1.jpg",
+      "/assets/image/tablets/apple-ipad-pro-m2-2.jpg"
+    ],
+    "description": "O iPad Pro com chip M2 oferece desempenho de ponta para profissionais criativos, estudantes e gamers. Design sofisticado, tela Liquid Retina XDR e compatibilidade com Apple Pencil 2.",
+    "specs": "Tela 10,1” Full HD | Intel N4120 | Windows 10 | Teclado destacável",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+
+  {
+    "id": "amazon-fire-hd-10",
+    "name": "Amazon Fire HD 10",
+    "price": 1499,
+    "installments": "ou em até 10x de R$ 149,90 sem juros",
+    "storage": ["32GB", "64GB"],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      },
+      {
+        "name": "Azul",
+        "bg": "#3366cc",
+        "color": "#fff"
+      }
+    ],
+    "images": [
+      "/assets/image/tablets/amazon-fire-hd-10-1.jpg",
+      "/assets/image/tablets/amazon-fire-hd-10-2.jpg",
+      "/assets/image/tablets/amazon-fire-hd-10.jpg"
+    ],
+    "description": "Tablet da Amazon otimizado para consumo de mídia.",
+    "specs": "Tela 10,1” Full HD | Octa-core | FireOS | Alexa integrada",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "ipad-mini-6",
+    "name": "Apple iPad Mini 6",
+    "price": 4199,
+    "installments": "ou em até 10x de R$ 419,90 sem juros",
+    "storage": ["64GB", "256GB"],
+    "colors": [
+      {
+        "name": "Roxo",
+        "bg": "#8e44ad",
+        "color": "#fff"
+      },
+      {
+        "name": "Cinza-espacial",
+        "bg": "#555",
+        "color": "#fff"
+      }
+    ],
+    "images": [
+      "/assets/image/tablets/apple-ipad-mini-6-1.jpg",
+      "/assets/image/tablets/apple-ipad-mini-6-2.jpg",
+      "/assets/image/tablets/apple-ipad-mini-6.jpg"
+    ],
+    "description": "Compacto e poderoso, perfeito para mobilidade.",
+    "specs": "Tela Liquid Retina 8,3” | Chip A15 Bionic | Apple Pencil 2 | iPadOS",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "asus-zenpad-8",
+    "name": "ASUS ZenPad 8",
+    "price": 1899,
+    "installments": "ou em até 10x de R$ 189,90 sem juros",
+    "storage": ["32GB", "64GB"],
+    "colors": [
+      {
+        "name": "Branco",
+        "bg": "#fff",
+        "color": "#000"
+      },
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "images": [
+      "/assets/image/tablets/asus-zenpad-8-1.jpg",
+      "/assets/image/tablets/asus-zenpad-8-2.jpg",
+      "/assets/image/tablets/asus-zenpad-8.jpg"
+    ],
+    "description": "Tablet intermediário da ASUS com Android.",
+    "specs": "Tela 8” | Processador Quad-core | Android 9",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "lenovo-tab-m10",
+    "name": "Lenovo Tab M10",
+    "price": 1599,
+    "installments": "ou em até 10x de R$ 159,90 sem juros",
+    "storage": ["32GB", "64GB"],
+    "colors": [
+      {
+        "name": "Cinza",
+        "bg": "#888",
+        "color": "#fff"
+      }
+    ],
+    "images": [
+      "/assets/image/tablets/lenovo-tab-m10-1.jpg",
+      "/assets/image/tablets/lenovo-tab-m10-2.jpg",
+      "/assets/image/tablets/lenovo-tab-m10.jpg"
+    ],
+    "description": "Tablet familiar com tela grande e controle parental.",
+    "specs": "Tela 10,1” Full HD | Snapdragon 450 | Android 10",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "chuwi-hi10-x",
+    "name": "CHUWI Hi10 X",
+    "price": 1299,
+    "installments": "ou em até 10x de R$ 129,90 sem juros",
+    "storage": ["128GB"],
+    "colors": [
+      {
+        "name": "Cinza",
+        "bg": "#555",
+        "color": "#fff"
+      }
+    ],
+    "images": [
+      "/assets/image/tablets/chuwi-hi10-x-1.jpg",
+      "/assets/image/tablets/chuwi-hi10-x-2.jpg",
+      "/assets/image/tablets/chuwi-hi10-x.jpg"
+    ],
+    "description": "Tablet 2 em 1 com Windows, ideal para produtividade leve.",
+    "specs": "Tela 10,1” Full HD | Intel N4120 | Windows 10 | Teclado destacável",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+
+  {
+    "id": "galaxy-tab-s8-ultra",
+    "name": "Samsung Galaxy Tab S8 Ultra",
+    "price": 8999.00,
+    "installments": "ou em até 10x de R$899,90 sem juros",
+    "storage": ["128GB", "256GB"],
+    "colors": ["grafite", "prata"],
+    "images": [
+      "/assets/image/tablets/samsung-galaxy-tab-s8-ultra-2.jpg",
+      "/assets/image/tablets/samsung-galaxy-tab-s8-ultra-1.jpg",
+      "/assets/image/tablets/samsung-galaxy-tab-s8-ultra.jpg"
+    ],
+    "description": "O Galaxy Tab S8 Ultra traz uma tela Super AMOLED gigante de 14.6 polegadas, ideal para produtividade e entretenimento.",
+    "specs": {
+      "Tela": "14.6 polegadas Super AMOLED",
+      "Processador": "Snapdragon 8 Gen 1",
+      "Câmera": "Traseira 13MP + 6MP / Frontal dupla 12MP",
+      "Bateria": "11200 mAh",
+      "Sistema": "Android 12"
+    },
+    "reviews": [
+      {
+        "user": "Juliana",
+        "rating": 5,
+        "comment": "Tela maravilhosa, ótima para trabalhar com múltiplas janelas."
+      }
+    ]
+  },
+  {
+    "id": "microsoft-surface-pro-9",
+    "name": "Microsoft Surface Pro 9",
+    "price": 10500.0,
+    "installments": "ou em até 10x de R$1.050,00 sem juros",
+    "storage": ["256GB", "512GB", "1TB"],
+    "colors": ["platina", "grafite"],
+    "images": [
+      "/assets/image/tablets/microsoft-surface-pro-9-1.jpg",
+      "/assets/image/tablets/microsoft-surface-pro-9-2.jpg",
+      "/assets/image/tablets/microsoft-surface-pro-9.jpg"
+    ],
+    "description": "O iPad Pro com chip M2 oferece desempenho de ponta para profissionais criativos, estudantes e gamers. Design sofisticado, tela Liquid Retina XDR e compatibilidade com Apple Pencil 2.",
+    "specs": "Tela 10,1” Full HD | Intel N4120 | Windows 10 | Teclado destacável",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "xiaomi-pad-6",
+    "name": "Xiaomi Pad 6",
+    "price": 2499.0,
+    "installments": "ou em até 10x de R$249,90 sem juros",
+    "storage": ["128GB", "256GB"],
+    "colors": ["cinza", "azul"],
+    "images": [
+      "/assets/image/tablets/xiaomi-pad-6-1.jpg",
+      "/assets/image/tablets/xiaomi-pad-6.png",
+      "/assets/image/tablets/xiaomi-pad-6.jpg"
+    ],
+    "description": "O iPad Pro com chip M2 oferece desempenho de ponta para profissionais criativos, estudantes e gamers. Design sofisticado, tela Liquid Retina XDR e compatibilidade com Apple Pencil 2.",
+    "specs": "Tela 10,1” Full HD | Intel N4120 | Windows 10 | Teclado destacável",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "multilaser-m10",
+    "name": "Multilaser M10",
+    "price": 899.0,
+    "installments": "ou em até 10x de R$89,90 sem juros",
+    "storage": ["32GB", "64GB"],
+    "colors": ["preto"],
+    "images": [
+      "/assets/image/tablets/multilaser-m10-1.jpg",
+      "/assets/image/tablets/multilaser-m10-2.jpg",
+      "/assets/image/tablets/multilaser-m10.jpg"
+    ],
+    "description": "O iPad Pro com chip M2 oferece desempenho de ponta para profissionais criativos, estudantes e gamers. Design sofisticado, tela Liquid Retina XDR e compatibilidade com Apple Pencil 2.",
+    "specs": "Tela 10,1” Full HD | Intel N4120 | Windows 10 | Teclado destacável",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  }
+]

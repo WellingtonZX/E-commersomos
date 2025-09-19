@@ -1,0 +1,36 @@
+
+    .category h2{
+        margin-left: 1.875rem;
+    }
+
+    .category-card p{
+        font-size: 1.2rem;
+    color: #0033C6;
+    margin-bottom: 0.3125rem;
+    font-family: 'Nunito', sans-serif;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    font-weight: 700;
+        margin-top: auto;
+    }
+
+    .category-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 10px;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.category-card a {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  color: inherit;
+  text-decoration: none;
+}

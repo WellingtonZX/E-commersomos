@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Produto - E-commersomos</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+<div class="wrapper">
+  <header>
+    <nav class="navbar">
+      <a href="../../index.html" class="logo">E-commersomos</a>
+    </nav>
+  </header>
+
+  <main class="product-page">
+    <nav class="breadcrumb">
+      <a href="../../index.html">Home</a> &gt;
+      <span id="breadcrumb-product">Produto</span>
+    </nav>
+
+    <div class="product-detail">
+      <div class="product-images">
+        <img src="" alt="Produto" id="mainImage">
+      </div>
+      <div class="product-info">
+        <h1 id="product-name"></h1>
+        <div class="price" id="product-price"></div>
+        <div class="quantity">
+          Quantidade: <input type="number" value="1" min="1" id="quantity-input">
+        </div>
+        <div class="btn-wrapper">
+          <button class="btn btn-cart">Adicionar ao Carrinho</button>
+          <button class="btn btn-buy">Comprar Agora</button>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+
+<script>
+  // Mesma lista de produtos
+  const produtos = [
+    { id: "iphone14", nome: "iPhone 14", preco: 6999, img: "../../assets/image/produtos/iphone14.jpg" },
+    { id: "tv-samsung", nome: "TV Samsung 50” 4K", preco: 2499, img: "../../assets/image/produtos/tv404.png" },
+    { id: "dell-i5", nome: "Notebook Dell i5", preco: 3599, img: "../../assets/image/produtos/dell.jpg" },
+    { id: "galaxy-watch", nome: "Smartwatch Galaxy", preco: 999, img: "../../assets/image/produtos/smartwatch.jpg" },
+    { id: "ipad9", nome: "iPad 9ª Geração", preco: 4299, img: "../../assets/image/produtos/ipad.jpg" },
+    { id: "monitor-lg", nome: "Monitor LG 24”", preco: 1299, img: "../../assets/image/produtos/monitor.jpg" }
+  ];
+
+  const params = new URLSearchParams(window.location.search);
+  const productId = params.get("id");
+
+  const produto = produtos.find(p => p.id === productId);
+
+  if(produto){
+    document.getElementById("product-name").innerText = produto.nome;
+    document.getElementById("product-price").innerText = `R$ ${produto.preco.toLocaleString("pt-BR")},00`;
+    document.getElementById("mainImage").src = produto.img;
+    document.getElementById("breadcrumb-product").innerText = produto.nome;
+  } else {
+    document.getElementById("product-name").innerText = "Produto não encontrado";
+  }
+</script>
+</body>
+</html>

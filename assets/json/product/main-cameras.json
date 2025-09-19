@@ -1,0 +1,513 @@
+[
+  {
+    "id": "canon-eos-r6",
+    "name": "Canon EOS R6 (Full-Frame)",
+    "price": 14999.0,
+    "installments": "ou em até 12x de R$ 1.249,92 sem juros",
+    "images": [
+      "/assets/image/cameras/canon-eos-r6-full-frame-1.jpg",
+      "/assets/image/cameras/canon-eos-r6-full-frame-2.jpg",
+      "/assets/image/cameras/canon-eos-r6-full-frame.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "storage": [],
+    "description": "Câmera mirrorless full-frame da Canon, ideal para profissionais e entusiastas, com alta velocidade de disparo e excelente desempenho em baixa luz.",
+    "specs": "Sensor full-frame de 20MP, gravação 4K60, estabilização de imagem de 5 eixos, Wi-Fi e Bluetooth integrados.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "sony-a7iii",
+    "name": "Sony A7 III (Mirrorless)",
+    "price": 12499.0,
+    "installments": "ou em até 12x de R$ 1.041,58 sem juros",
+    "images": [
+      "/assets/image/cameras/sony-a7-iii-mirrorless-1.jpg",
+      "/assets/image/cameras/sony-a7-iii-mirrorless.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "storage": [],
+    "description": "Câmera mirrorless Sony full-frame, perfeita para fotografia e vídeo com alta performance e excelente faixa dinâmica.",
+    "specs": "Sensor full-frame 24MP, 4K HDR, estabilização de 5 eixos, ISO expansível até 204800.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "nikon-z6ii",
+    "name": "Nikon Z6 II",
+    "price": 13799.0,
+    "installments": "ou em até 12x de R$ 1.149,92 sem juros",
+    "images": [
+      "/assets/image/cameras/nikon-z6-ii-1.jpg",
+      "/assets/image/cameras/nikon-z6-ii-2.jpg",
+      "/assets/image/cameras/nikon-z6-ii.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "storage": [],
+    "description": "Mirrorless full-frame da Nikon com ótima performance em fotos e vídeos, ideal para fotógrafos profissionais.",
+    "specs": "Sensor CMOS 24.5MP, 4K UHD, foco automático rápido, dual card slots, Wi-Fi e Bluetooth.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "canon-eos-m50",
+    "name": "Canon EOS M50 Mark II",
+    "price": 4299.0,
+    "installments": "ou em até 12x de R$ 358,25 sem juros",
+    "images": [
+      "/assets/image/cameras/canon-eos-m50-mark-ii-1.jpg",
+      "/assets/image/cameras/canon-eos-m50-mark-ii-2.jpg",
+      "/assets/image/cameras/canon-eos-m50-mark-ii.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      },
+      {
+        "name": "Branco",
+        "bg": "#fff",
+        "color": "#000"
+      }
+    ],
+    "storage": [],
+    "description": "Mirrorless compacta da Canon, ideal para iniciantes e criadores de conteúdo.",
+    "specs": "Sensor APS-C 24MP, 4K vídeo, tela touchscreen articulada, Wi-Fi e Bluetooth integrados.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "sony-a6400",
+    "name": "Sony A6400",
+    "price": 5899.0,
+    "installments": "ou em até 12x de R$ 490,75 sem juros",
+    "images": [
+      "/assets/image/cameras/sony-a6400-1.jpg",
+      "/assets/image/cameras/sony-a6400-2.jpg",
+      "/assets/image/cameras/sony-a6400.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "storage": [],
+    "description": "Mirrorless APS-C da Sony, ideal para vídeos e fotos em movimento, com foco rápido e preciso.",
+    "specs": "Sensor 24.2MP, 4K vídeo, autofocus em tempo real, tela flip de 180°.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "fujifilm-xt5",
+    "name": "Fujifilm X-T5",
+    "price": 11999.0,
+    "installments": "ou em até 12x de R$ 999,92 sem juros",
+    "images": [
+      "/assets/image/cameras/fujifilm-x-t5-1.jpg",
+      "/assets/image/cameras/fujifilm-x-t5-2.jpg",
+      "/assets/image/cameras/fujifilm-x-t5.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      },
+      {
+        "name": "Prata",
+        "bg": "#C0C0C0",
+        "color": "#000"
+      }
+    ],
+    "storage": [],
+    "description": "Mirrorless premium da Fujifilm com design clássico e alta performance para fotografia avançada.",
+    "specs": "Sensor X-Trans CMOS 40MP, 4K60 vídeo, estabilização interna de 5 eixos, Wi-Fi/Bluetooth.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "panasonic-gh6",
+    "name": "Panasonic Lumix GH6",
+    "price": 10499.0,
+    "installments": "ou em até 12x de R$ 874,92 sem juros",
+    "images": [
+      "/assets/image/cameras/panasonic-lumix-gh6-1.jpg",
+      "/assets/image/cameras/panasonic-lumix-gh6-2.jpg",
+      "/assets/image/cameras/panasonic-lumix-gh6.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "storage": [],
+    "description": "Câmera Micro Four Thirds da Panasonic, perfeita para vídeo profissional e cinema digital.",
+    "specs": "Sensor 25MP, 4K 120fps, V-Log, estabilização de 5 eixos, conexão HDMI e USB-C.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "gopro-hero12",
+    "name": "GoPro Hero 12 Black",
+    "price": 3199.0,
+    "installments": "ou em até 12x de R$ 266,58 sem juros",
+    "images": [
+      "/assets/image/cameras/gopro-hero-12-black-1.jpg",
+      "/assets/image/cameras/gopro-hero-12-black.png",
+      "/assets/image/cameras/gopro-hero-12-black-.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "storage": [],
+    "description": "Câmera de ação compacta e resistente, ideal para aventuras e esportes radicais.",
+    "specs": "Gravação 5.3K, resistência à água, estabilização HyperSmooth, Wi-Fi/Bluetooth.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "dji-osmo",
+    "name": "DJI Osmo Action 4",
+    "price": 2799.0,
+    "installments": "ou em até 12x de R$ 233,25 sem juros",
+    "images": [
+      "/assets/image/cameras/dji-osmo-action-4-1.jpg",
+      "/assets/image/cameras/dji-osmo-action-4-2.jpg",
+      "/assets/image/cameras/dji-osmo-action-4.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "storage": [],
+    "description": "Câmera de ação DJI com estabilização avançada, resistente e perfeita para vlogs e esportes.",
+    "specs": "4K 120fps, estabilização RockSteady, à prova d'água, Wi-Fi e Bluetooth.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "instax-mini",
+    "name": "Fujifilm Instax Mini 12",
+    "price": 499.0,
+    "installments": "ou em até 1x de R$ 499,00",
+    "images": [
+      "/assets/image/cameras/fujifilm-instax-mini-12-1.jpg",
+      "/assets/image/cameras/fujifilm-instax-mini-12-2.jpg",
+      "/assets/image/cameras/fujifilm-instax-mini-12.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Azul",
+        "bg": "#00f",
+        "color": "#fff"
+      },
+      {
+        "name": "Rosa",
+        "bg": "#FFC0CB",
+        "color": "#000"
+      },
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "storage": [],
+    "description": "Câmera instantânea Fujifilm, imprime fotos na hora com design compacto e divertido.",
+    "specs": "Filmes Instax Mini, flash automático, bateria recarregável.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "canon-powershot",
+    "name": "Canon PowerShot G7X Mark III",
+    "price": 4099.0,
+    "installments": "ou em até 12x de R$ 341,58 sem juros",
+    "images": [
+      "/assets/image/cameras/canon-powershot-g7x-mark-iii-1.jpg",
+      "/assets/image/cameras/canon-powershot-g7x-mark-iii-2.jpg",
+      "/assets/image/cameras/canon-powershot-g7x-mark-iii.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "storage": [],
+    "description": "Compacta avançada da Canon, ideal para vlogs e fotografia portátil com qualidade profissional.",
+    "specs": "Sensor 20MP, 4K vídeo, zoom óptico 4.2x, tela flip 180°, Wi-Fi/Bluetooth.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  },
+  {
+    "id": "nikon-d3500",
+    "name": "Nikon D3500 DSLR",
+    "price": 3899.0,
+    "installments": "ou em até 12x de R$ 324,92 sem juros",
+    "images": [
+      "/assets/image/cameras/nikon-d3500-dslr-1.jpg",
+      "/assets/image/cameras/nikon-d3500-dslr-2.jpg",
+      "/assets/image/cameras/nikon-d3500-dslr.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Preto",
+        "bg": "#000",
+        "color": "#fff"
+      }
+    ],
+    "storage": [],
+    "description": "DSLR básica da Nikon, perfeita para iniciantes que desejam aprender fotografia.",
+    "specs": "Sensor APS-C 24MP, Full HD 1080p, ISO 100-25600, guia de modos de cena.",
+    "reviews": [
+      {
+        "author": "João Silva",
+        "date": "10/05/2025",
+        "rating": 5,
+        "text": "O desempenho é incrivelmente fluido e a qualidade das fotos é fantástica. Vale cada centavo!"
+      },
+      {
+        "author": "Maria Oliveira",
+        "date": "08/05/2025",
+        "rating": 4,
+        "text": "A bateria dura o dia todo e o design é muito elegante. A integração com meu MacBook é perfeita."
+      },
+      {
+        "author": "Pedro Santos",
+        "date": "02/05/2025",
+        "rating": 5,
+        "text": "Muito satisfeito com a compra. A navegação no iOS é intuitiva e o telefone é extremamente rápido."
+      }
+    ]
+  }
+]

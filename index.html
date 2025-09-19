@@ -1,0 +1,309 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Home - E-commersomos</title>
+  <link rel="stylesheet" href="assets/css/style.css" />
+  <link rel="stylesheet" href="assets/css/responsive.css" />
+  
+</head>
+<body>
+    <div class="wrapper">
+  <header>
+    <nav class="navbar">
+      <div class="nav-left">
+        <a href="index.html" class="logo">E-commersomos</a>
+        <div class="nav-toggle" onclick="toggleMenu()">☰</div>
+      </div>
+      <div class="nav-right" id="navLinks">
+        <a href="assets/html/header/shop.html">SHOP</a>
+        <a href="assets/html/header/about.html">ABOUT</a>
+        <a href="assets/html/header/contact.html">CONTACT</a>
+      </div>
+    </nav>
+  </header>
+
+  <main class="main">
+    
+    <section class="hero">
+  <div class="hero-content">
+    <div class="hero-text">
+      <h1>Os melhores eletrônicos em um só lugar</h1>
+      <p>Descubra ofertas exclusivas em <strong>smartphones</strong>, <strong>TVs</strong> e <strong>notebooks</strong>. Qualidade e preço justo é aqui!</p>
+      <a href="assets/html/header/shop.html" class="btn">Ver Loja</a>
+    </div>
+
+    <div class="hero-image">
+      <img src="assets/image/eletronicos.png" alt="Eletrônicos em destaque" />
+    </div>
+  </div>
+</section>
+
+
+    
+<section class="categories">
+  <h2>Categorias Populares</h2>
+
+  <div class="slider-wrapper">
+   <button class="slider-btn left" onclick="scrollSliderLeft()">
+    <svg class="icon" viewBox="0 0 16 16 ">
+  <path fill-rule="evenodd" d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8"/>
+    </svg>
+</button>
+
+
+    <div class="category-slider" id="categorySlider">
+      <div class="category-card"><a href="assets/html/categories/smartphones.html"><img src="assets/image/categories/smartphones.jpg"><h3>Smartphones</h3></a></div>
+      <div class="category-card"><a href="assets/html/categories/televisions.html"><img src="assets/image/categories/televisions.jpg"><h3>TVs</h3></a></div>
+      <div class="category-card"><a href="assets/html/categories/notebooks.html"><img src="assets/image/categories/notebooks.jpg"><h3>Notebooks</h3></a></div>
+      <div class="category-card"><a href="assets/html/categories/cameras.html"><img src="assets/image/categories/cameras.jpg"><h3>Câmeras</h3></a></div>
+      <div class="category-card"><a href="assets/html/categories/consoles.html"><img src="assets/image/categories/consoles.jpg"><h3>Consoles</h3></a></div>
+      <div class="category-card"><a href="assets/html/categories/headphones.html"><img src="assets/image/categories/headphones.jpg"><h3>Fones</h3></a></div>
+      <div class="category-card"><a href="assets/html/categories/accessories.html"><img src="assets/image/categories/accessories.jpg"><h3>Acessórios</h3></a></div>
+      <div class="category-card"><a href="assets/html/categories/computers.html"><img src="assets/image/categories/computers.jpg"><h3>Computadores</h3></a></div>
+      <div class="category-card"><a href="assets/html/categories/tablets.html"><img src="assets/image/categories/tablets.jpg"><h3>Tablets</h3></a></div>
+      <div class="category-card"><a href="assets/html/categories/smartwatch.html"><img src="assets/image/categories/smartwatch.jpg"><h3>Smartwatches</h3></a></div>
+    </div>
+
+    <button class="slider-btn right" onclick="scrollSliderRight()">
+        <svg class="icon" viewBox="0 0 16 16 ">
+   <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/>
+   </svg>
+    </button>
+    
+  </div>
+</section>
+   
+ <section class="featured">
+  <h2>Produtos em Destaque</h2>
+  <div class="product-grid limited">
+
+    <div class="product-card">
+  <a href="assets/html/product/main-smartphones.html?id=iphone14">
+    <img src="assets/image/smartphones/iphone14.jpg" alt="iPhone 14" />
+    <h2>iPhone 14</h2>
+  </a>
+  <p>R$ 6.999,00</p>
+</div>
+
+<div class="product-card">
+  <a href="assets/html/product/main-televisions.html?id=samsung-qn90c">
+    <img src="assets/image/televisions/lg-nanocell-80-55.jpg" alt="TV Samsung 50” 4K" />
+    <h2>LG NanoCell 80 55</h2>
+  </a>
+  <p>R$ 2.499,00</p>
+</div>
+
+<div class="product-card">
+  <a href="/assets/html/product/main-notebooks.html?id=macbook-air-m2">
+    <img src="/assets/image/notebooks/macbook-air-m2.jpg" alt="Apple MacBook Air M2">
+    <h2>MacBook Air M2</h2>
+    <p>R$ 9.999,00</p>
+  </a>
+</div>
+
+<div class="product-card">
+  <a href="/assets/html/product/main-smartwatch.html?id=samsung-galaxy-watch6-classic">
+    <img src="/assets/image/smartwatch/samsung-galaxy-watch-6-classic.jpg" alt="Samsung Galaxy Watch 6 Classic">
+    <h2>Samsung Galaxy Watch 6 Classic</h2>
+    <p>R$ 2.699,00</p>
+  </a>
+</div>
+
+<div class="product-card">
+  <a href="/assets/html/product/main-tablets.html?id=galaxy-tab-a8">
+    <img src="/assets/image/tablets/samsung-galaxy-tab-a8.jpg" alt="Samsung Galaxy Tab A8">
+    <h2>Samsung Galaxy Tab A8</h2>
+    <p>R$ 2.199,00</p>
+  </a>
+</div>
+
+<div class="product-card">
+  <a href="/assets/html/product/main-consoles.html?id=ps4-slim">
+    <img src="/assets/image/consoles/sony-playstation-4-slim.jpg" alt="PlayStation 4 Slim">
+    <h2>Sony PlayStation 4 Slim</h2>
+    <p>R$ 2.199,00</p>
+  </a>
+</div>
+
+  </div>
+
+  <div class="ver-mais-wrapper">
+    <button onclick="openModal()" class="ver-mais-btn">Ver Mais</button>
+  </div>
+</section>
+
+
+  </main>
+
+  <footer class="footer">
+  <div class="footer-container">
+    <div class="footer-section">
+      <h3>Sobre Nós</h3>
+      <p>Somos a E-commersomos, uma loja online dedicada a oferecer os melhores produtos de tecnologia com qualidade e preço justo.</p>
+    </div>
+
+    <div class="footer-section">
+      <h3>Informações</h3>
+      <ul>
+        <li><a href="#">Política de Privacidade</a></li>
+        <li><a href="#">Termos de Uso</a></li>
+        <li><a href="#">Envios & Entregas</a></li>
+        <li><a href="#">Trocas & Devoluções</a></li>
+      </ul>
+    </div>
+
+    <div class="footer-section">
+      <h3>Atendimento</h3>
+      <ul>
+        <li><a href="#">Fale Conosco</a></li>
+        <li><a href="#">Dúvidas Frequentes</a></li>
+        <li><a href="#">Suporte Técnico</a></li>
+        <li><a href="#">Whatsapp: (11) 99999-9999</a></li>
+      </ul>
+    </div>
+
+    <div class="footer-section">
+      <h3>Minha Conta</h3>
+      <ul>
+        <li><a href="#">Login</a></li>
+        <li><a href="#">Cadastrar</a></li>
+        <li><a href="#">Meus Pedidos</a></li>
+        <li><a href="#">Rastrear Pedido</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    &copy; 2025 E-commersomos. Todos os direitos reservados.
+  </div>
+</footer>
+
+</div>
+
+
+<div id="modalProdutos" class="modal">
+  <div class="modal-content">
+    <span class="close" onclick="closeModal()">&times;</span>
+    <h2>Mais Produtos em Destaque</h2>
+    <div class="product-grid">
+      
+      <div class="product-card">
+      <a href="/assets/html/product/main-consoles.html?id=nintendo-switch-lite">
+        <img src="/assets/image/consoles/nintendo-switch-lite.jpg" alt="Nintendo Switch Lite">
+        <h2>Nintendo Switch Lite</h2>
+        <p>R$ 1.799,00</p>
+      </a>
+    </div>
+     <div class="product-card">
+        <a href="/assets/html/product/main-headphones.html?id=sony-wh-ch510">
+          <img src="/assets/image/headphones/sony-wh-ch510.jpg" alt="Fone Sony WH-CH510 sem fio">
+          <h3>Sony WH-CH510</h3>
+          <p>R$ 249,00</p>
+        </a>
+      </div>
+ <div class="product-card">
+      <a href="/assets/html/product/main-computers.html?id=apple-mac-mini">
+        <img src="/assets/image/computers/apple-mac-mini-m2.jpg" alt="Apple Mac Mini M2">
+        <h2>Apple Mac Mini M2</h2>
+        <p>R$ 7.299,00</p>
+      </a>
+    </div>
+    <div class="product-card">
+      <a href="/assets/html/product/main-smartwatch.html?id=amazfit-gtr4">
+        <img src="/assets/image/smartwatch/amazfit-gtr-4.jpg" alt="Amazfit GTR 4">
+        <h2>Amazfit GTR 4</h2>
+        <p>R$ 1.199,00</p>
+      </a>
+    </div>
+     <div class="product-card">
+      <a href="/assets/html/product/main-accessories.html?id=powerbank">
+        <img src="/assets/image/accessories/power-bank-20000mah.jpg" alt="Power Bank">
+        <h2>Power Bank 20.000mAh</h2>
+        <p>R$ 199,00</p>
+      </a>
+    </div>
+      <div class="product-card">
+      <a href="/assets/html/product/main-tablets.html?id=amazon-fire-hd-10">
+        <img src="/assets/image/tablets/amazon-fire-hd-10.jpg" alt="Amazon Fire HD 10">
+        <h2>Amazon Fire HD 10</h2>
+        <p>R$ 1.499,00</p>
+      </a>
+    </div>
+       <div class="product-card">
+      <a href="/assets/html/product/main-cameras.html?id=sony-a6400">
+        <img src="/assets/image/cameras/sony-a6400.jpg" alt="Sony A6400">
+        <h2>Sony A6400</h2>
+        <p>R$ 5.899,00</p>
+      </a>
+    </div>
+      <div class="product-card">
+      <a href="/assets/html/product/main-televisions.html?id=philco-4k">
+        <img src="/assets/image/televisions/philco-4k-smart-tv-58.jpg" alt="Philco 4K Smart TV">
+        <h2>Philco 4K Smart TV 58"</h2>
+        <p>R$ 2.899,00</p>
+      </a>
+    </div>
+      <div class="product-card">
+      <a href="/assets/html/product/main-computers.html?id=hp-omen">
+        <img src="/assets/image/computers/hp-omen-gaming-pc.jpg" alt="HP Omen Gaming PC">
+        <h2>HP Omen Gaming PC</h2>
+        <p>R$ 9.299,00</p>
+      </a>
+    </div>
+      <div class="product-card">
+      <a href="/assets/html/product/main-televisions.html?id=samsung-crystal-uhd">
+        <img src="/assets/image/televisions/samsung-crystal-uhd-50.jpg" alt="Samsung Crystal UHD">
+        <h2>Samsung Crystal UHD 50"</h2>
+        <p>R$ 2.499,00</p>
+      </a>
+    </div>
+      <div class="product-card">
+      <a href="/assets/html/product/main-consoles.html?id=nintendo-switch-oled">
+        <img src="/assets/image/consoles/nintendo-switch-oled.jpg" alt="Nintendo Switch OLED">
+        <h2>Nintendo Switch OLED</h2>
+        <p>R$ 2.999,00</p>
+      </a>
+    </div>
+      <div class="product-card">
+        <a href="/assets/html/product/main-headphones.html?id=samsung-galaxy-buds2">
+          <img src="/assets/image/headphones/samsung-galaxy-buds2.jpg" alt="Samsung Galaxy Buds2 sem fio">
+          <h3>Samsung Galaxy Buds2</h3>
+          <p>R$ 699,00</p>
+        </a>
+      </div>
+      <div class="product-card">
+      <a href="/assets/html/product/main-cameras.html?id=sony-a7iii">
+        <img src="/assets/image/cameras/sony-a6400.jpg" alt="Sony A7 III">
+        <h2>Sony A7 III (Mirrorless)</h2>
+        <p>R$ 12.499,00</p>
+      </a>
+    </div>
+      <div class="product-card">
+      <a href="/assets/html/product/main-notebooks.html?id=asus-zenbook-14">
+        <img src="/assets/image/notebooks/asus-zenbook-14.jpg" alt="ASUS ZenBook 14">
+        <h2>ASUS ZenBook 14</h2>
+        <p>R$ 6.499,00</p>
+      </a>
+    </div>
+      <div class="product-card">
+      <a href="/assets/html/product/main-accessories.html?id=suporte-notebook">
+        <img src="/assets/image/accessories/suporte-dobravel-notebook.jpg" alt="Suporte Notebook">
+        <h2>Suporte Dobrável Notebook</h2>
+        <p>R$ 89,90</p>
+      </a>
+    </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="assets/js/script.js"></script>
+
+</body>
+</html>

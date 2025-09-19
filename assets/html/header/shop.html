@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Loja - E-commersomos</title>
+  <link rel="stylesheet" href="/assets/css/style.css" />
+  <link rel="stylesheet" href="/assets/css/responsive.css" />
+  <link rel="stylesheet" href="/assets/css/shop.css" />
+</head>
+
+<body>
+  <div class="wrapper">
+    <header>
+      <nav class="navbar">
+        <div class="nav-left">
+          <a href="/index.html" class="logo">E-commersomos</a>
+          <div class="nav-toggle" onclick="toggleMenu()">☰</div>
+        </div>
+        <div class="nav-right" id="navLinks">
+          <a href="/index.html">HOME</a>
+          <a href="/assets/html/header/shop.html">SHOP</a>
+          <a href="/assets/html/header/about.html">ABOUT</a>
+          <a href="/assets/html/header/contact.html">CONTACT</a>
+        </div>
+      </nav>
+    </header>
+
+    <main class="shop">
+      <h1>Catálogo de Produtos</h1>
+
+      <section class="category" id="smartphones">
+        <h2>Smartphones</h2>
+        <div class="slider-wrapper">
+          <button class="slider-btn left" id="smartphonesPrev" onclick="changePage('smartphones', -1)">
+            <svg class="icon" viewBox="0 0 16 16 ">
+              <path fill-rule="evenodd"
+                d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8" />
+            </svg>
+          </button>
+          <div class="product-grid" id="smartphonesGrid"></div>
+          <button class="slider-btn right" id="smartphonesNext" onclick="changePage('smartphones', 1)">
+            <svg class="icon" viewBox="0 0 16 16 ">
+              <path fill-rule="evenodd"
+                d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8" />
+            </svg>
+          </button>
+        </div>
+      </section>
+
+      <section class="category" id="televisions">
+        <h2>TVs</h2>
+        <div class="slider-wrapper">
+          <button class="slider-btn left" id="televisionsPrev" onclick="changePage('televisions', -1)">
+            <svg class="icon" viewBox="0 0 16 16 ">
+              <path fill-rule="evenodd"
+                d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8" />
+            </svg>
+          </button>
+          <div class="product-grid" id="televisionsGrid"></div>
+          <button class="slider-btn right" id="televisionsNext" onclick="changePage('televisions', 1)">
+           <svg class="icon" viewBox="0 0 16 16 ">
+              <path fill-rule="evenodd"
+                d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8" />
+            </svg>
+          </button>
+        </div>
+      </section>
+
+      <section class="category" id="notebooks">
+        <h2>Notebooks</h2>
+        <div class="slider-wrapper">
+          <button class="slider-btn left" id="notebooksPrev" onclick="changePage('notebooks', -1)">
+            <svg class="icon" viewBox="0 0 16 16 ">
+              <path fill-rule="evenodd"
+                d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8" />
+            </svg>
+          </button>
+          <div class="product-grid" id="notebooksGrid"></div>
+          <button class="slider-btn right" id="notebooksNext" onclick="changePage('notebooks', 1)">
+            <svg class="icon" viewBox="0 0 16 16 ">
+              <path fill-rule="evenodd"
+                d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8" />
+            </svg>
+          </button>
+        </div>
+      </section>
+
+      <section class="category" id="cameras">
+        <h2>Câmeras</h2>
+        <div class="slider-wrapper">
+          <button class="slider-btn left" id="camerasPrev" onclick="changePage('cameras', -1)">
+            <svg class="icon" viewBox="0 0 16 16 ">
+                <path
+                  fill-rule="evenodd"
+                  d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8"
+                />
+              </svg>
+          </button>
+          <div class="product-grid" id="camerasGrid"></div>
+          <button class="slider-btn right" id="camerasNext" onclick="changePage('cameras', 1)">
+            <svg class="icon" viewBox="0 0 16 16 ">
+              <path fill-rule="evenodd"
+                d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8" />
+            </svg>
+          </button>
+        </div>
+      </section>
+
+      <section class="category" id="computers">
+        <h2>Computadores</h2>
+        <div class="slider-wrapper">
+          <button class="slider-btn left" id="computersPrev" onclick="changePage('computers', -1)">
+           <svg class="icon" viewBox="0 0 16 16 ">
+                <path
+                  fill-rule="evenodd"
+                  d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8"
+                />
+              </svg>
+          </button>
+          <div class="product-grid" id="computersGrid"></div>
+          <button class="slider-btn right" id="computersNext" onclick="changePage('computers', 1)">
+            <svg class="icon" viewBox="0 0 16 16 ">
+              <path fill-rule="evenodd"
+                d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8" />
+            </svg>
+          </button>
+        </div>
+      </section>
+
+      <section class="category" id="consoles">
+        <h2>Consoles</h2>
+        <div class="slider-wrapper">
+          <button class="slider-btn left" id="consolesPrev" onclick="changePage('consoles', -1)">
+            <svg class="icon" viewBox="0 0 16 16 ">
+                <path
+                  fill-rule="evenodd"
+                  d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8"
+                />
+              </svg>
+          </button>
+          <div class="product-grid" id="consolesGrid"></div>
+          <button class="slider-btn right" id="consolesNext" onclick="changePage('consoles', 1)">
+            <svg class="icon" viewBox="0 0 16 16 ">
+              <path fill-rule="evenodd"
+                d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8" />
+            </svg>
+          </button>
+        </div>
+      </section>
+
+      <section class="category" id="headphones">
+        <h2>Fones de Ouvido</h2>
+        <div class="slider-wrapper">
+          <button class="slider-btn left" id="headphonesPrev" onclick="changePage('headphones', -1)">
+            <svg class="icon" viewBox="0 0 16 16 ">
+                <path
+                  fill-rule="evenodd"
+                  d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8"
+                />
+              </svg>
+          </button>
+          <div class="product-grid" id="headphonesGrid"></div>
+          <button class="slider-btn right" id="headphonesNext" onclick="changePage('headphones', 1)">
+            <svg class="icon" viewBox="0 0 16 16 ">
+              <path fill-rule="evenodd"
+                d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8" />
+            </svg>
+          </button>
+        </div>
+      </section>
+
+      <section class="category" id="smartwatch">
+        <h2>Smartwatches</h2>
+        <div class="slider-wrapper">
+          <button class="slider-btn left" id="smartwatchPrev" onclick="changePage('smartwatch', -1)">
+            <svg class="icon" viewBox="0 0 16 16 ">
+                <path
+                  fill-rule="evenodd"
+                  d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8"
+                />
+              </svg>
+          </button>
+          <div class="product-grid" id="smartwatchGrid"></div>
+          <button class="slider-btn right" id="smartwatchNext" onclick="changePage('smartwatch', 1)">
+            <svg class="icon" viewBox="0 0 16 16 ">
+              <path fill-rule="evenodd"
+                d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8" />
+            </svg>
+          </button>
+        </div>
+      </section>
+
+      <section class="category" id="tablets">
+        <h2>Tablets</h2>
+        <div class="slider-wrapper">
+          <button class="slider-btn left" id="tabletsPrev" onclick="changePage('tablets', -1)">
+           <svg class="icon" viewBox="0 0 16 16 ">
+                <path
+                  fill-rule="evenodd"
+                  d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8"
+                />
+              </svg>
+          </button>
+          <div class="product-grid" id="tabletsGrid"></div>
+          <button class="slider-btn right" id="tabletsNext" onclick="changePage('tablets', 1)">
+            <svg class="icon" viewBox="0 0 16 16 ">
+              <path fill-rule="evenodd"
+                d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8" />
+            </svg>
+          </button>
+        </div>
+      </section>
+
+      <section class="category" id="accessories">
+        <h2>Acessórios</h2>
+        <div class="slider-wrapper">
+          <button class="slider-btn left" id="accessoriesPrev" onclick="changePage('accessories', -1)">
+            <svg class="icon" viewBox="0 0 16 16 ">
+                <path
+                  fill-rule="evenodd"
+                  d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8"
+                />
+              </svg>
+          </button>
+          <div class="product-grid" id="accessoriesGrid"></div>
+          <button class="slider-btn right" id="accessoriesNext" onclick="changePage('accessories', 1)">
+            <svg class="icon" viewBox="0 0 16 16 ">
+              <path fill-rule="evenodd"
+                d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8" />
+            </svg>
+          </button>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-container">
+        <div class="footer-section">
+          <h3>Sobre Nós</h3>
+          <p>
+            Somos a E-commersomos, uma loja online dedicada a oferecer os
+            melhores produtos de tecnologia com qualidade e preço justo.
+          </p>
+        </div>
+        <div class="footer-section">
+          <h3>Informações</h3>
+          <ul>
+            <li><a href="#">Política de Privacidade</a></li>
+            <li><a href="#">Termos de Uso</a></li>
+            <li><a href="#">Envios & Entregas</a></li>
+            <li><a href="#">Trocas & Devoluções</a></li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h3>Atendimento</h3>
+          <ul>
+            <li><a href="#">Fale Conosco</a></li>
+            <li><a href="#">Dúvidas Frequentes</a></li>
+            <li><a href="#">Suporte Técnico</a></li>
+            <li><a href="#">Whatsapp: (11) 99999-9999</a></li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h3>Minha Conta</h3>
+          <ul>
+            <li><a href="#">Login</a></li>
+            <li><a href="#">Cadastrar</a></li>
+            <li><a href="#">Meus Pedidos</a></li>
+            <li><a href="#">Rastrear Pedido</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        &copy; 2025 E-commersomos. Todos os direitos reservados.
+      </div>
+    </footer>
+  </div>
+
+  <script src="/assets/js/script.js"></script>
+  <script src="/assets/js/header/shop.js"></script>
+</body>
+
+</html>
